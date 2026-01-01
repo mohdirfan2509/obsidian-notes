@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "df49d9a29a9a062c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5986f55fd8d57b56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "439075eb933d6af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FSD-SPRING/Hibernate-Notes/Day-01__24-11-2025-hibernate-introduction-classnotes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-01__24-11-2025-hibernate-introduction-classnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ebb60d6c6af564c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c5c23521ec0ccbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a83a4e462c14c21b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8c4217c8dc79d613",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "06c6c45ff1531751",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5
+  },
+  "right": {
+    "id": "fee2bde8125614ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "8757ad6945466eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c027b70d5f04d8a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FSD-SPRING/Hibernate-Notes/Day-01__24-11-2025-hibernate-introduction-classnotes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Day-01__24-11-2025-hibernate-introduction-classnotes"
+            }
+          },
+          {
+            "id": "a9eef5b492d9a837",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7f6b2f62a598c115",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "021ef5f97a3ae2c4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b8596fce1b9dfa4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "439075eb933d6af4",
+  "lastOpenFiles": [
+    "FSD-SPRING/Spring-Core-Notes/Day-12__ 10-10-2025-day-12-springLMI.md",
+    "FSD-SPRING/Spring-Core-images/Day-12__10-10-2025-springLMI-images.png.~tmp",
+    "FSD-SPRING/Spring-Core-images/Day-12__10-10-2025-springLMI-images.png",
+    "FSD-SPRING/Spring-Core-images/10-10-2025-day-12-springLMI-images.png",
+    "FSD-SPRING/Spring-Core-Notes/Day-11__09-10-2025-spring bean scope.md",
+    "FSD-SPRING/Spring-Core-images/Day-11__09-10-2025-spring bean scope-images.png",
+    "FSD-SPRING/Spring-Core-Notes/Day-08__ 03-10-2025-springannotationsforreftype.md",
+    "FSD-SPRING/Spring-Core-Notes/Day-10__ 08-10-2025-springMixedConfiguration.md",
+    "FSD-SPRING/Spring-Core-images/Day-11__09-10-2025-day-11-spring bean scope-images.png.~tmp",
+    "FSD-SPRING/Spring-Core-images/09-10-2025-day-11-spring bean scope-images.png",
+    "FSD-SPRING/Spring-Core-images/Day-10__08-10-2025-springMixedConfiguration-images.png.~tmp",
+    "FSD-SPRING/Spring-Core-images/Day-10__08-10-2025-springMixedConfiguration-images.png",
+    "FSD-SPRING/Spring-Core-images/08-10-2025-day-10-springMixedConfiguration-images.png",
+    "FSD-SPRING/Spring-Core-Notes/Day-09__ 06-10-2025-springPurejavaapproach-notes.md",
+    "FSD-SPRING/Spring-Core-images/Day-09__06-10-2025-springPurejava-images.png.~tmp",
+    "FSD-SPRING/Spring-Core-images/Day-09__06-10-2025-springPurejava-images.png",
+    "FSD-SPRING/Spring-Core-images/06-10-2025-day-9-springPurejava-images.png",
+    "FSD-SPRING/Spring-Core-images/Day-08__03-10-2025-springannotationsforreftype-images.png",
+    "FSD-SPRING/Spring-Core-images/03-10-2025-day-8-springannotationsforreftype-images.png",
+    "FSD-SPRING/Spring-Core-Notes/Day-07__ 30-09-2025-spring-lifecycle-methods-notes.md",
+    "FSD-SPRING/Spring-Core-images/Day-07__30-09-2025-spring-lifecycle-methods.png.~tmp",
+    "FSD-SPRING/Spring-Core-Notes/Day-06__ 29-09-2025-spring-with properties - introduction.md",
+    "FSD-SPRING/Spring-Core-Notes/Day-05__ 26-09-2025-class-notes-spring annotation introduction.md",
+    "FSD-SPRING/Spring-Core-Notes/Day-04__25-09-2025-class-notes-FirstSpringApp-notes.md",
+    "FSD-SPRING/Spring-Core-images/Day-04__25-09-2025-class-notes-FirstSpringApp-notes-images.png.~tmp",
+    "FSD-SPRING/Spring-Core-Notes/Day-03__ 24-09-2025-classnotes-FirstSpringApp-notes.md",
+    "FSD-SPRING/Spring-Core-Notes/Day-02__ 23-09-2025-classnotes-Maven and Spring life cycle.md",
+    "FSD-SPRING/Spring-Core-Notes/Day-01__22-09-2025-classnotes-DI.md",
+    "FSD-SPRING/JDBC-Notes/Day-10__ 21-11-2025-MetaData-conclusion-notes.md",
+    "FSD-SPRING/Spring-Core-images",
+    "FSD-SPRING/Spring-Core-Notes",
+    "FSD-SPRING/JDBC-images/Day-10__21-11-2025-MetaData-conclusion-notes-images.png.~tmp",
+    "FSD-SPRING/JDBC-Notes/Day-09__ 20-11-2025-connectionpooling-notes.md",
+    "FSD-SPRING/JDBC-images/Day-09__20-11-2025-connectionpooling-images.png.~tmp",
+    "FSD-SPRING/JDBC-Notes/Day-08__19-11-2025-Batchfiles-TxMgnt-notes.md",
+    "FSD-SPRING/JDBC-Notes/Day-07__18-11-2025-storedprocedure-notes.md",
+    "FSD-SPRING/JDBC-Notes/Day-06__17-11-2025-blob-clob-operation.md",
+    "FSD-SPRING/JDBC-images/Day-07__ 18-11-2025-storedprocedure-notes.md",
+    "FSD-SPRING/JDBC-Notes/Day-05__ 14-11-2025-date and sqlinjection-classnotes.md",
+    "FSD-SPRING/JDBC-Notes/Day-04__13-11-2025-preparedstatement-classnotes.md",
+    "FSD-SPRING/JDBC-Notes/Day-03__ 12-11-2025-jdbc-selectappwith try and catch-notes.md",
+    "FSD-SPRING/JDBC-Notes/Day-02__ 11-11-2025-jdbc-selectapp-notes.md",
+    "FSD-SPRING/JDBC-Notes/Day-01__10-11-2025-jdbc-introduction-notes.md",
+    "FSD-SPRING/Hibernate-Notes/Day-06__ 3-12-2025-CompositeKey and Object Versioning-notes.md",
+    "FSD-SPRING/Hibernate-Notes/Day-05__ 2-12-2025-Datetimeoperationin hibernate.md",
+    "Untitled.canvas"
+  ]
+}
