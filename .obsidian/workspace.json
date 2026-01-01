@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "FSD-SPRING/Hibernate-Notes/Day-01__24-11-2025-hibernate-introduction-classnotes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 278.5
   },
   "right": {
     "id": "fee2bde8125614ec",
@@ -184,6 +184,12 @@
   },
   "active": "439075eb933d6af4",
   "lastOpenFiles": [
+    "().md",
+    "FSD-SPRING/Hibernate-Notes/Day-01__24-11-2025-hibernate-introduction-classnotes.md",
+    "Hibernate-Notes/Day01__24-11-2025-hibernate-introduction-classnotes-images.md",
+    "Hibernate-Notes",
+    "Hibernate-Notes.md",
+    "FSD-SPRING/JDBC-images/Day-01__10-11-2025-jdbc-introduction-notes-images.png",
     "FSD-SPRING/Spring-Core-Notes/Day-12__ 10-10-2025-day-12-springLMI.md",
     "FSD-SPRING/Spring-Core-images/Day-12__10-10-2025-springLMI-images.png.~tmp",
     "FSD-SPRING/Spring-Core-images/Day-12__10-10-2025-springLMI-images.png",
@@ -202,7 +208,6 @@
     "FSD-SPRING/Spring-Core-images/Day-09__06-10-2025-springPurejava-images.png",
     "FSD-SPRING/Spring-Core-images/06-10-2025-day-9-springPurejava-images.png",
     "FSD-SPRING/Spring-Core-images/Day-08__03-10-2025-springannotationsforreftype-images.png",
-    "FSD-SPRING/Spring-Core-images/03-10-2025-day-8-springannotationsforreftype-images.png",
     "FSD-SPRING/Spring-Core-Notes/Day-07__ 30-09-2025-spring-lifecycle-methods-notes.md",
     "FSD-SPRING/Spring-Core-images/Day-07__30-09-2025-spring-lifecycle-methods.png.~tmp",
     "FSD-SPRING/Spring-Core-Notes/Day-06__ 29-09-2025-spring-with properties - introduction.md",
@@ -217,7 +222,6 @@
     "FSD-SPRING/Spring-Core-Notes",
     "FSD-SPRING/JDBC-images/Day-10__21-11-2025-MetaData-conclusion-notes-images.png.~tmp",
     "FSD-SPRING/JDBC-Notes/Day-09__ 20-11-2025-connectionpooling-notes.md",
-    "FSD-SPRING/JDBC-images/Day-09__20-11-2025-connectionpooling-images.png.~tmp",
     "FSD-SPRING/JDBC-Notes/Day-08__19-11-2025-Batchfiles-TxMgnt-notes.md",
     "FSD-SPRING/JDBC-Notes/Day-07__18-11-2025-storedprocedure-notes.md",
     "FSD-SPRING/JDBC-Notes/Day-06__17-11-2025-blob-clob-operation.md",
@@ -226,9 +230,6 @@
     "FSD-SPRING/JDBC-Notes/Day-04__13-11-2025-preparedstatement-classnotes.md",
     "FSD-SPRING/JDBC-Notes/Day-03__ 12-11-2025-jdbc-selectappwith try and catch-notes.md",
     "FSD-SPRING/JDBC-Notes/Day-02__ 11-11-2025-jdbc-selectapp-notes.md",
-    "FSD-SPRING/JDBC-Notes/Day-01__10-11-2025-jdbc-introduction-notes.md",
-    "FSD-SPRING/Hibernate-Notes/Day-06__ 3-12-2025-CompositeKey and Object Versioning-notes.md",
-    "FSD-SPRING/Hibernate-Notes/Day-05__ 2-12-2025-Datetimeoperationin hibernate.md",
     "Untitled.canvas"
   ]
 }
