@@ -1,4 +1,3 @@
-
 # Hibernate Overview
 
 - Hibernate is an **implementation of JPA (Sun Microsystems)**
@@ -159,4 +158,7 @@ Hibernate:
 Record save to database
 ```
 ---
-![[Day-02__26-11-2025-hibernate-architecture and code-images.png]]
+![Hibernate Architecture](../Hibernate-images/Day-02__26-11-2025-hibernate-architecture%20and%20code-images.png)
+___
+### **My Practice :** 
+1. 

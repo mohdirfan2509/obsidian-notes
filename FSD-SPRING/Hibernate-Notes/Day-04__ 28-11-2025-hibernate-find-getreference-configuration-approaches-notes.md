@@ -100,7 +100,7 @@ cfg.configure(); // loads hibernate.cfg.xml
 - **hibernate.cfg.xml** gets priority
 - Considered the **efficient approach**
 ---
-![[Day-04__28-11-2025-hibernate-find-getreference-configuration-approaches-notes-images (2).png]]
+![Hibernate getReference & Configuration Approaches](../Hibernate-images/Day-04__28-11-2025-hibernate-find-getreference-configuration-approaches-notes-images%20(2).png)
 ___
 ### **My Practice :**
 1. 

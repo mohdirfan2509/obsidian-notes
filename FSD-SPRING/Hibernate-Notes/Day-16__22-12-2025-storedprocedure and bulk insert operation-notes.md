@@ -252,7 +252,7 @@ where condition;
 ```
 
 ---
-![[Day-16__22-12-2025-storedprocured and bulk insert operation.png]]
+![Stored Procedures and Bulk Insert Operation in Hibernate](../Hibernate-images/Day-16__22-12-2025-storedprocured%20and%20bulk%20insert%20operation.png)
 ___
 ### **My Practice :**
    1.

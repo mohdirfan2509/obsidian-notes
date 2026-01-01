@@ -233,7 +233,7 @@ public class AppConfig {
 @Scope("prototype")
 ```
 ---
-![[Day-11__09-10-2025-spring bean scope-images.png]]
+![Spring Bean Scope](../Spring-Core-images/Day-11__09-10-2025-spring%20bean%20scope-images.png)
 ___
 ### **My Practice :**
 1. 

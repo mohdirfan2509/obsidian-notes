@@ -315,7 +315,7 @@ xsi:schemaLocation=_"_[_http://www.ehcache.org/v3_](http://www.ehcache.org/v3)
 </config>
 ```
 ___
-![[Day-09__9-12-2025-L1 and L2 caching in hibernate-images.png]]
+![L1 and L2 Caching in Hibernate](../Hibernate-images/Day-09__9-12-2025-L1%20and%20L2%20caching%20in%20hibernate-images.png)
 ___
 ### **My Practice :** 
 1. 

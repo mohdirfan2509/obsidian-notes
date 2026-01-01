@@ -192,7 +192,7 @@ java.lang.NullPointerException
 - `@Autowired(required = false)` allows **null injection**
 - Calling `service.doWork()` results in **NullPointerException**
 ---
-![[Day-10__08-10-2025-springMixedConfiguration-images.png]]
+![Spring Mixed Configuration](../Spring-Core-images/Day-10__08-10-2025-springMixedConfiguration-images.png)
 ___
 ### **My Practice :**
 1. 

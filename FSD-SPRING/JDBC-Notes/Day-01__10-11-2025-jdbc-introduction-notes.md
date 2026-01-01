@@ -1,4 +1,3 @@
-
 # JDBC
 ## Java Database Connectivity
 ---
@@ -54,7 +53,8 @@ mysql-connector-j-8.3.0.jar
 4. **Use the result**
 5. **Close the connection**
 ---
-![[Day-01__10-11-2025-jdbc-introduction-notes-images.png]]
+![JDBC Introduction Notes](../JDBC-images/Day-01__10-11-2025-jdbc-introduction-notes-images.png)
+
 ___
 ### **My Practice :**
 1. 

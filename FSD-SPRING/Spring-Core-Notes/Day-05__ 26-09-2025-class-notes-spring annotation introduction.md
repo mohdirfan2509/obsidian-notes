@@ -1,4 +1,3 @@
-
 # Role of Spring Framework
 ## Responsibilities of Spring
 
@@ -119,7 +118,7 @@ public OrderService(Customer customer, Product product) {
 - Links objects
 - Manages object lifecycle
 ---
-![[Day-05__26-09-2025-class-notes-spring annotation introduction-images.png]]
+![Spring Annotations – Introduction](../Spring-Core-images/Day-05__26-09-2025-class-notes-spring%20annotation%20introduction-images.png)
 ___
 ### **My Practice :**
 1. 

@@ -267,7 +267,7 @@ my.db.userName=root
 my.db.password=root123
 ```
 ---
-![[Day-09__06-10-2025-springPurejava-images.png]]
+![Spring Pure Java Configuration](../Spring-Core-images/Day-09__06-10-2025-springPurejava-images.png)
 ___
 ### **My Practice :**
 1. 

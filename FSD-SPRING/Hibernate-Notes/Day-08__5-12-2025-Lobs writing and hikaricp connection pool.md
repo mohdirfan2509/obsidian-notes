@@ -102,7 +102,7 @@ Instantiating explicit connection provider:
 org.hibernate.hikaricp.internal.HikariCPConnectionProvider
 ```
 ---
-![[Day-08__5-12-2025-Lobs writing and hikaricp connection pool-images.png]]
+![LOBs Writing and HikariCP Connection Pool](../Hibernate-images/Day-08__5-12-2025-Lobs%20writing%20and%20hikaricp%20connection%20pool-images.png)
 ___
 ### **My Practice :**
 1. 

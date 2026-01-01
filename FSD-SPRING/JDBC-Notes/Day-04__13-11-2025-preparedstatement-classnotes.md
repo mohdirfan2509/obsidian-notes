@@ -1,4 +1,3 @@
-
 # JDBC Project Structure
 
 ```
@@ -69,7 +68,7 @@ pst.setInt(2, 42);
 int rowCount = pst.executeUpdate();
 ```
 ---
-![[Day-04__13-11-2025-preparedstatement-classnotes-images (2).png]]
+![PreparedStatement Class Notes](../JDBC-images/Day-04__13-11-2025-preparedstatement-classnotes-images%20(2).png)
 ___
 ### **My Practice :**
 1. 

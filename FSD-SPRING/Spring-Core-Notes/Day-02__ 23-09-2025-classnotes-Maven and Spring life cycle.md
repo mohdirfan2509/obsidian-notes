@@ -1,4 +1,3 @@
-
 # Spring Bean
 ## Rules for a Spring Bean
 
@@ -110,7 +109,7 @@ Spring Container requires **two inputs**:
 - Java
 - Annotation
 ---
-![[Day-02__23-09-2025-classnotes-Maven and Spring life cycle-images.png]]
+![Maven and Spring Life Cycle](../Spring-Core-images/Day-02__23-09-2025-classnotes-Maven%20and%20Spring%20life%20cycle-images.png)
 ___
 ### **My Practice :**
 1. 

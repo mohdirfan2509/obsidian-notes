@@ -178,7 +178,7 @@ TokenService [token=Token [code=620]]
 - `Token` hashCode changes every time → **Prototype**
 - `@Lookup` ensures **new prototype object** is injected each time
 ---
-![[Day-12__10-10-2025-springLMI-images.png]]
+![Spring Lookup Method Injection (LMI)](../Spring-Core-images/Day-12__10-10-2025-springLMI-images.png)
 ___
 ### **My Practice :**
 1. 

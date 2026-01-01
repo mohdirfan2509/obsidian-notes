@@ -176,7 +176,7 @@ Student object created using Spring F/w....
 Student [sid=10, sname=sachin, sage=55, saddress=IND]
 ```
 ---
-![[Day-06__29-09-2025-spring-with properties - introduction-images.png]]
+![Spring with Properties – Introduction](../Spring-Core-images/Day-06__29-09-2025-spring-with%20properties%20-%20introduction-images.png)
 ___
 ### **My Practice :**
 1. 

@@ -116,7 +116,7 @@ tx.rollBack();
 ```
 
 ---
-![[Day-17__23-12-2025-pagination and NamedQuery (crud) and Introduction to DTO.png]]
+![Pagination, NamedQuery (CRUD) and Introduction to DTO](../Hibernate-images/Day-17__23-12-2025-pagination%20and%20NamedQuery%20(crud)%20and%20Introduction%20to%20DTO.png)
 ___
 ### **My Practice :**
    1. [HibernateNamedQueryInsert01](https://github.com/mohdirfan2509/spring-core-projects/tree/main/HibernateNamedQueryInsert01)

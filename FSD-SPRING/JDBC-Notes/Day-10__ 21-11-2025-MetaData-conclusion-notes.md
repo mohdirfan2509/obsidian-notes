@@ -1,4 +1,3 @@
-
 # DatabaseMetaData and ResultSetMetaData
 ---
 ## DatabaseMetaData
@@ -116,7 +115,7 @@ public class DatabaseMetaDataApp {
     - Column name
     - Column type
 ---
-![[Day-10__21-11-2025-MetaData-conclusion-notes-images.png]]
+![JDBC Metadata and Conclusion](../JDBC-images/Day-10__21-11-2025-MetaData-conclusion-notes-images.png)
 ___
 ### **My Practice :**
 1. 

@@ -1,4 +1,3 @@
-
 # Spring Container
 ## Responsibilities of Spring Container
 
@@ -245,7 +244,7 @@ Student [sid=18, sname=kohli, sage=37]
 Closing the container....
 ```
 ---
-![[Day-03__24-09-2025-class-notes-FirstSpringApp.png]]
+![First Spring Application](../Spring-Core-images/Day-03__24-09-2025-class-notes-FirstSpringApp.png)
 ___
 ### **My Practice :**
 1. 

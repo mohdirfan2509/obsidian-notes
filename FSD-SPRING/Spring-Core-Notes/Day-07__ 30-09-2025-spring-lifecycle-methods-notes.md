@@ -149,7 +149,7 @@ ExcelExportService [fileName=sample, mode=csv]
 ********Some logic to process after calling the method*********
 ```
 ---
-![[Day-07__30-09-2025-spring-lifecycle-methods.png]]
+![Spring Lifecycle Methods](../Spring-Core-images/Day-07__30-09-2025-spring-lifecycle-methods.png)
 ___
 ### **My Practice :**
 1. 

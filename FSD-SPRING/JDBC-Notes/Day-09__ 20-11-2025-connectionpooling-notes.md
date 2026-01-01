@@ -1,4 +1,3 @@
-
 # Exception Handling
 ## try–catch–finally
 
@@ -171,7 +170,7 @@ public class DBConnection {
 </project>
 ```
 ---
-![[Day-09__20-11-2025-connectionpooling-images.png]]
+![Connection Pooling](../JDBC-images/Day-09__20-11-2025-connectionpooling-images.png)
 ___
 ### **My Practice :**
 1. 

@@ -179,7 +179,7 @@ public class StudentService {
 }
 ```
 ---
-![[Day-08__03-10-2025-springannotationsforreftype-images.png]]
+![Spring Annotations for Reference Type](../Spring-Core-images/Day-08__03-10-2025-springannotationsforreftype-images.png)
 ___
 ### **My Practice :**
 1. 

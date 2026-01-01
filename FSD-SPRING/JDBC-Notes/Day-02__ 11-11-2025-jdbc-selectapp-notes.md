@@ -1,4 +1,3 @@
-
 # Steps Given by SUN Microsystems to Communicate with Database
 ## JDBC Communication Steps
 a. **Load and register the driver**
@@ -66,7 +65,7 @@ public class TestApp {
 }
 ```
 ---
-![[Day-02__11-11-2025-jdbc-selectapp-images (1).png]]
+![JDBC Select Application](../JDBC-images/Day-02__11-11-2025-jdbc-selectapp-images%20(1).png)
 ___
 **My Practice :**
 1. 
