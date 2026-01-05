@@ -1,4 +1,3 @@
-
 # Java Overview
 
 ## a. Java as a Language
@@ -97,4 +96,4 @@ PreparedStatement pstmt = connection.prepareStatement(sqlInsertQuery);
 ![Hibernate Intro](../Hibernate-images/Day-01__24-11-2025-hibernate-introduction-classnotes-images%20(1).png)
 ___
 ### **My Practice :** 
-1. 
+  --No Tasks were given--

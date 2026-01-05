@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5986f55fd8d57b56",
+        "id": "3695b293dc13485a",
         "type": "tabs",
         "children": [
           {
-            "id": "439075eb933d6af4",
+            "id": "20f37ef45f3a5c1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FSD-SPRING/Hibernate-Notes/Day-01__24-11-2025-hibernate-introduction-classnotes.md",
+                "file": "OPERATING SYSTEM AND COMPUTER NETWORKS/os-notes/Class-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day-01__24-11-2025-hibernate-introduction-classnotes"
-            }
-          },
-          {
-            "id": "df8ebb49fc3c32a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FSD-SPRING/Spring-Core-Notes/Day-10__ 08-10-2025-springMixedConfiguration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day-10__ 08-10-2025-springMixedConfiguration"
+              "title": "Class-02"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 255.5
   },
   "right": {
     "id": "fee2bde8125614ec",
@@ -197,10 +182,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df8ebb49fc3c32a4",
+  "active": "20f37ef45f3a5c1d",
   "lastOpenFiles": [
-    "Hibernate-Notes/Day01__24-11-2025-hibernate-introduction-classnotes-images.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-01-img-06.jpg",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-02-img.pdf",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-notes/Class-02.md",
+    "RU.pdf",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-notes/Class-01.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-01-img-01.jpg",
+    "FSD-SPRING/Hibernate-Notes/Day-02__26-11-2025-hibernate-persist-method-notes.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-01-img-05.jpg",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-01-img-04.jpg",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-01-img-03.jpg",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-01-img-02.jpg",
+    "FSD-SPRING/Hibernate-Notes/Day-09__9-12-2025-L1 and L2 caching in hibernate.md",
+    "FSD-SPRING/Hibernate-Notes/Day-08__5-12-2025-Lobs writing and hikaricp connection pool.md",
+    "FSD-SPRING/Hibernate-Notes/Day-07__ 4-12-2025-lobs and TimeStamping-notes.md",
+    "FSD-SPRING/Hibernate-Notes/Day-06__ 3-12-2025-CompositeKey and Object Versioning-notes.md",
+    "FSD-SPRING/Hibernate-Notes/Day-05__ 2-12-2025-Datetimeoperationin hibernate.md",
+    "FSD-SPRING/Hibernate-Notes/Day-01__24-11-2025-hibernate-introduction-classnotes.md",
     "FSD-SPRING/Spring-Core-Notes/Day-10__ 08-10-2025-springMixedConfiguration.md",
+    "Hibernate-Notes/Day01__24-11-2025-hibernate-introduction-classnotes-images.md",
     "FSD-SPRING/Spring-Core-Notes/Day-11__09-10-2025-spring bean scope.md",
     "FSD-SPRING/Spring-Core-Notes/Day-12__ 10-10-2025-day-12-springLMI.md",
     "FSD-SPRING/Spring-Core-Notes/Day-09__ 06-10-2025-springPurejavaapproach-notes.md",
@@ -215,16 +217,6 @@
     "FSD-SPRING/JDBC-Notes/Day-10__ 21-11-2025-MetaData-conclusion-notes.md",
     "FSD-SPRING/JDBC-Notes/Day-09__ 20-11-2025-connectionpooling-notes.md",
     "FSD-SPRING/JDBC-Notes/Day-08__19-11-2025-Batchfiles-TxMgnt-notes.md",
-    "FSD-SPRING/JDBC-Notes/Day-07__18-11-2025-storedprocedure-notes.md",
-    "FSD-SPRING/JDBC-Notes/Day-06__17-11-2025-blob-clob-operation.md",
-    "FSD-SPRING/JDBC-Notes/Day-05__ 14-11-2025-date and sqlinjection-classnotes.md",
-    "FSD-SPRING/JDBC-Notes/Day-04__13-11-2025-preparedstatement-classnotes.md",
-    "FSD-SPRING/JDBC-Notes/Day-03__ 12-11-2025-jdbc-selectappwith try and catch-notes.md",
-    "FSD-SPRING/JDBC-Notes/Day-02__ 11-11-2025-jdbc-selectapp-notes.md",
-    "FSD-SPRING/JDBC-Notes/Day-01__10-11-2025-jdbc-introduction-notes.md",
-    "FSD-SPRING/Hibernate-Notes/Day-01__24-11-2025-hibernate-introduction-classnotes.md",
-    "FSD-SPRING/Hibernate-Notes/Day-02__26-11-2025-hibernate-persist-method-notes.md",
-    "FSD-SPRING/Hibernate-Notes/Day-03__27-11-2025-hibernate-update-delete-notes.md",
     "Hibernate-Notes",
     "FSD-SPRING/JDBC-images/Day-01__10-11-2025-jdbc-introduction-notes-images.png",
     "FSD-SPRING/Spring-Core-images/Day-12__10-10-2025-springLMI-images.png.~tmp",
@@ -234,17 +226,10 @@
     "FSD-SPRING/Spring-Core-images/Day-11__09-10-2025-day-11-spring bean scope-images.png.~tmp",
     "FSD-SPRING/Spring-Core-images/09-10-2025-day-11-spring bean scope-images.png",
     "FSD-SPRING/Spring-Core-images/Day-10__08-10-2025-springMixedConfiguration-images.png.~tmp",
-    "FSD-SPRING/Spring-Core-images/Day-10__08-10-2025-springMixedConfiguration-images.png",
-    "FSD-SPRING/Spring-Core-images/08-10-2025-day-10-springMixedConfiguration-images.png",
     "FSD-SPRING/Spring-Core-images/Day-09__06-10-2025-springPurejava-images.png.~tmp",
-    "FSD-SPRING/Spring-Core-images/Day-09__06-10-2025-springPurejava-images.png",
-    "FSD-SPRING/Spring-Core-images/06-10-2025-day-9-springPurejava-images.png",
-    "FSD-SPRING/Spring-Core-images/Day-08__03-10-2025-springannotationsforreftype-images.png",
     "FSD-SPRING/Spring-Core-images/Day-07__30-09-2025-spring-lifecycle-methods.png.~tmp",
     "FSD-SPRING/Spring-Core-images/Day-04__25-09-2025-class-notes-FirstSpringApp-notes-images.png.~tmp",
     "FSD-SPRING/Spring-Core-images",
-    "FSD-SPRING/Spring-Core-Notes",
-    "FSD-SPRING/JDBC-images/Day-10__21-11-2025-MetaData-conclusion-notes-images.png.~tmp",
     "Untitled.canvas"
   ]
 }

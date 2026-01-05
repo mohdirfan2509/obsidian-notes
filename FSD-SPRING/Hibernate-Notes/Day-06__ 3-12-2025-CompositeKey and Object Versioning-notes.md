@@ -1,4 +1,3 @@
-
 # Hibernate 7.x
 ## JPA
 ---
