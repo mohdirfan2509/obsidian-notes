@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3695b293dc13485a",
+        "id": "304014ad2025e71f",
         "type": "tabs",
         "children": [
           {
-            "id": "20f37ef45f3a5c1d",
+            "id": "3dc577a1ef9ffe0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OPERATING SYSTEM AND COMPUTER NETWORKS/os-notes/Class-02.md",
+                "file": "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class-02"
+              "title": "Class-01"
             }
           }
         ]
@@ -182,13 +182,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "20f37ef45f3a5c1d",
+  "active": "3dc577a1ef9ffe0e",
   "lastOpenFiles": [
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-09.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-slides/Class-16-slides.pdf",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-slides/Class-17-18-slides.pdf",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-17-18.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-16.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-15.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-14.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-slides/Class-14-slides.pdf",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-13.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-slides/Class-13-slides.pdf",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-12.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-slides/Class-12-slides.pdf",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-11.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-10.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-04.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-05.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-06.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-07.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-08.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-01.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-02.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-notes/Class-03.md",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-slides/Class-05-slides.pdf",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-slides/RU Note 06-10-25 Class 5-Multitasking and Multithreading (1).pdf",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-slides/OS 18-19 B2.pdf",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-slides/OS 17 B2.pdf",
+    "OPERATING SYSTEM AND COMPUTER NETWORKS/OS-slides/Class-15-slides.pdf",
     "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-01-img-06.jpg",
-    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-02-img.pdf",
-    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-notes/Class-02.md",
-    "RU.pdf",
-    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-notes/Class-01.md",
     "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-01-img-01.jpg",
     "FSD-SPRING/Hibernate-Notes/Day-02__26-11-2025-hibernate-persist-method-notes.md",
     "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-01-img-05.jpg",
@@ -202,34 +225,10 @@
     "FSD-SPRING/Hibernate-Notes/Day-05__ 2-12-2025-Datetimeoperationin hibernate.md",
     "FSD-SPRING/Hibernate-Notes/Day-01__24-11-2025-hibernate-introduction-classnotes.md",
     "FSD-SPRING/Spring-Core-Notes/Day-10__ 08-10-2025-springMixedConfiguration.md",
-    "Hibernate-Notes/Day01__24-11-2025-hibernate-introduction-classnotes-images.md",
-    "FSD-SPRING/Spring-Core-Notes/Day-11__09-10-2025-spring bean scope.md",
-    "FSD-SPRING/Spring-Core-Notes/Day-12__ 10-10-2025-day-12-springLMI.md",
-    "FSD-SPRING/Spring-Core-Notes/Day-09__ 06-10-2025-springPurejavaapproach-notes.md",
-    "FSD-SPRING/Spring-Core-Notes/Day-08__ 03-10-2025-springannotationsforreftype.md",
-    "FSD-SPRING/Spring-Core-Notes/Day-07__ 30-09-2025-spring-lifecycle-methods-notes.md",
-    "FSD-SPRING/Spring-Core-Notes/Day-06__ 29-09-2025-spring-with properties - introduction.md",
-    "FSD-SPRING/Spring-Core-Notes/Day-05__ 26-09-2025-class-notes-spring annotation introduction.md",
-    "FSD-SPRING/Spring-Core-Notes/Day-04__25-09-2025-class-notes-FirstSpringApp-notes.md",
-    "FSD-SPRING/Spring-Core-Notes/Day-03__ 24-09-2025-classnotes-FirstSpringApp-notes.md",
-    "FSD-SPRING/Spring-Core-Notes/Day-02__ 23-09-2025-classnotes-Maven and Spring life cycle.md",
-    "FSD-SPRING/Spring-Core-Notes/Day-01__22-09-2025-classnotes-DI.md",
-    "FSD-SPRING/JDBC-Notes/Day-10__ 21-11-2025-MetaData-conclusion-notes.md",
-    "FSD-SPRING/JDBC-Notes/Day-09__ 20-11-2025-connectionpooling-notes.md",
-    "FSD-SPRING/JDBC-Notes/Day-08__19-11-2025-Batchfiles-TxMgnt-notes.md",
-    "Hibernate-Notes",
     "FSD-SPRING/JDBC-images/Day-01__10-11-2025-jdbc-introduction-notes-images.png",
-    "FSD-SPRING/Spring-Core-images/Day-12__10-10-2025-springLMI-images.png.~tmp",
     "FSD-SPRING/Spring-Core-images/Day-12__10-10-2025-springLMI-images.png",
     "FSD-SPRING/Spring-Core-images/10-10-2025-day-12-springLMI-images.png",
     "FSD-SPRING/Spring-Core-images/Day-11__09-10-2025-spring bean scope-images.png",
-    "FSD-SPRING/Spring-Core-images/Day-11__09-10-2025-day-11-spring bean scope-images.png.~tmp",
-    "FSD-SPRING/Spring-Core-images/09-10-2025-day-11-spring bean scope-images.png",
-    "FSD-SPRING/Spring-Core-images/Day-10__08-10-2025-springMixedConfiguration-images.png.~tmp",
-    "FSD-SPRING/Spring-Core-images/Day-09__06-10-2025-springPurejava-images.png.~tmp",
-    "FSD-SPRING/Spring-Core-images/Day-07__30-09-2025-spring-lifecycle-methods.png.~tmp",
-    "FSD-SPRING/Spring-Core-images/Day-04__25-09-2025-class-notes-FirstSpringApp-notes-images.png.~tmp",
-    "FSD-SPRING/Spring-Core-images",
     "Untitled.canvas"
   ]
 }
