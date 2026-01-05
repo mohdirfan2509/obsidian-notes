@@ -1,1 +1,1 @@
-![pdf 1](../os-images/class-02-img.pdf)
+![pdf 1](../os-images/class-02-img.pdf)![[class-02-img.pdf]]
