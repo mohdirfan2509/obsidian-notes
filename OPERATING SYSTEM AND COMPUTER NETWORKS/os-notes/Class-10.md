@@ -1,2 +1,2 @@
-![Class 10 : Slides ](Class-10-slides.pdf)
+![Class 10 : Slides ](../os-slides/Class-10-slides.pdf)
 ___

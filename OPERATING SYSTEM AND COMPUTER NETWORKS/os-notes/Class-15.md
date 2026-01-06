@@ -77,5 +77,5 @@ A **thread** is:
 - **Scalability**  
     Efficient utilization of **multicore** and **multiprocessor** architectures.
 ___
-![Class 15 : Slides ](Class-15-slides.pdf)
+![Class 15 : Slides ](../os-slides/Class-15-slides.pdf)
 ___

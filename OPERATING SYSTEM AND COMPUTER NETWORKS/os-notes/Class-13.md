@@ -1,2 +1,2 @@
-![Class 13 : Slides ](Class-13-slides.pdf)
+![Class 13 : Slides ](../os-slides/Class-13-slides.pdf)
 ___

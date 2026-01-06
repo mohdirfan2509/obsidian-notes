@@ -84,5 +84,5 @@ Context switching is the act of **saving the state of a running process** and **
 ### ✨ **Key Idea**
 This rapid save-and-restore creates the **illusion of simultaneous execution**.
 ___
-![Class 02 : Slides ](Class-02-slides.pdf)
+![Class 02 : Slides ](../os-slides/Class-02-slides.pdf)
 ___

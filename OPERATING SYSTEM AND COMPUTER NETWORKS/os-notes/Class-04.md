@@ -224,4 +224,4 @@ UEFI is low-level firmware that:
 - Each disk partition is assigned a **128-bit GUID**.
 - Ensures partitions are uniquely identified across systems.
 ---
-![Class 04 : Slides ](Class-04-slides.pdf)
+![Class 04 : Slides ](../os-slides/Class-04-slides.pdf)

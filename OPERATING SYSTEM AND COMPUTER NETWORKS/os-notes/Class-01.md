@@ -143,5 +143,5 @@ An **Operating System** is both:
 - A **service provider for users**
 - An **arbiter for hardware resources**
 ---
-![Class 01 : Slides ](Class-01-slides.pdf)
+![Class 01 : Slides ](../os-slides/Class-01-slides.pdf)
 ___

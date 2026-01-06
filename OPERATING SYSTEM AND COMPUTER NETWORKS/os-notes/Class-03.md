@@ -127,4 +127,4 @@ _(Cheapest / Least Used ➜ Costliest / Most Used)_
 - Both are part of **secondary memory**
 - Differ in **access method and speed**
 ___
-![Class 03 : Slides ](Class-03-slides.pdf)
+![Class 03 : Slides ](../os-slides/Class-03-slides.pdf)

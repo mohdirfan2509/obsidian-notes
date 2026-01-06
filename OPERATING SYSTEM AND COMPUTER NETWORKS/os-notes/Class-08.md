@@ -294,5 +294,5 @@ WriteFile  conhost.exe  SUCCESS  Length: 12
 - Essential for **efficient OS operation**
 - Linux provides optimized implementations inside the kernel source.
 ___
-![Class 01 : Slides ](Class-08-slides.pdf)
+![Class 01 : Slides ](../os-slides/Class-08-slides.pdf)
 ___

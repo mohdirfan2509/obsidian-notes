@@ -210,5 +210,5 @@
 - **Kernel** → Foundation & Control Room
 - **Hardware** → Building materials (CPU, RAM, Disk)
 ___
-![Class 01 : Slides ](Class-06-slides.pdf)
+![Class 01 : Slides ](../os-slides/Class-06-slides.pdf)
 ___

@@ -1,2 +1,2 @@
-![Class 17-18 : Slides ](Class-17-18-slides.pdf)
+![Class 17-18 : Slides ](../os-slides/Class-17-18-slides.pdf)
 ___

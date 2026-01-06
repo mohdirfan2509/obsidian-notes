@@ -1,3 +1,3 @@
 
-![Class 09 : Slides ](Class-09-slides.pdf)
+![Class 09 : Slides ](../os-slides/Class-09-slides.pdf)
 ___

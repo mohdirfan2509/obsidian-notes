@@ -139,5 +139,5 @@ ___
 | CPU cache preserved                      | CPU cache flushed                    |
 
 ___
-![Class 05 : Slides ](Class-05-slides.pdf)
+![Class 05 : Slides ](../os-slides/Class-05-slides.pdf)
 ___
