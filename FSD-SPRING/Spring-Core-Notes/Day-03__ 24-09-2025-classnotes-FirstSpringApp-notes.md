@@ -244,7 +244,7 @@ Student [sid=18, sname=kohli, sage=37]
 Closing the container....
 ```
 ---
-![First Spring Application](../Spring-Core-images/Day-03__24-09-2025-class-notes-FirstSpringApp.png)
+![First Spring Application](Day-03__24-09-2025-class-notes-FirstSpringApp.png)
 ___
 ### **My Practice :**
 1. 

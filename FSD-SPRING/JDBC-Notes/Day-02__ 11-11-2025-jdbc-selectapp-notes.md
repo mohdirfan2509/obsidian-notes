@@ -65,7 +65,7 @@ public class TestApp {
 }
 ```
 ---
-![JDBC Select Application](../JDBC-images/Day-02__11-11-2025-jdbc-selectapp-images%20(1).png)
+![JDBC Select Application](Day-02__11-11-2025-jdbc-selectapp-images%20(1).png)
 ___
 **My Practice :**
 1. 

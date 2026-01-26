@@ -113,7 +113,7 @@ public class DateApp {
 }
 ```
 ---
-![Date Handling and SQL Injection](../JDBC-images/Day-05__14-11-2025-date%20and%20sqlinjection%20(1).png)
+![Date Handling and SQL Injection](Day-05__14-11-2025-date%20and%20sqlinjection%20(1).png)
 ___
 ### **My Practice :**
 1. 

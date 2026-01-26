@@ -183,7 +183,7 @@ public class TestApp {
 }
 ```
 ---
-![Bulk Operations in Hibernate](../Hibernate-images/Day-13__16-12-2025-bulkoperation%20in%20hibernate.png)
+![Bulk Operations in Hibernate](Day-13__16-12-2025-bulkoperation%20in%20hibernate.png)
 ___
 ### **My Practice :**
 1. 

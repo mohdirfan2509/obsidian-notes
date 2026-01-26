@@ -78,7 +78,7 @@ remove(object);    // void
 @Lob
 ```
 ---
-![LOBs and Timestamping in Hibernate](../Hibernate-images/Day-07__4-12-2025-lobs%20and%20TimeStamping-notes%20(1).png)
+![LOBs and Timestamping in Hibernate](Day-07__4-12-2025-lobs%20and%20TimeStamping-notes%20(1).png)
 ___
 ### **My Practice :**
 1. 

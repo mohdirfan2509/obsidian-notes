@@ -93,7 +93,7 @@ PreparedStatement pstmt = connection.prepareStatement(sqlInsertQuery);
 # Solution
 ## ORM (Object Relational Mapping) Framework
 ---
-![Hibernate Intro](../Hibernate-images/Day-01__24-11-2025-hibernate-introduction-classnotes-images%20(1).png)
+![Hibernate Intro](Day-01__24-11-2025-hibernate-introduction-classnotes-images%20(1).png)
 ___
 ### **My Practice :** 
   --No Tasks were given--

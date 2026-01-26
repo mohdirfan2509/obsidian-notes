@@ -82,7 +82,7 @@ PID   PNAME    PCOST   QTY   PTYPE
 # Question
 ## How would you execute a stored procedure using JDBC?
 ---
-![Stored Procedure Notes](../JDBC-images/Day-07__18-11-2025-storedprocedure-notes-images.png)
+![Stored Procedure Notes](Day-07__18-11-2025-storedprocedure-notes-images.png)
 ___
 ### **My practice :**
 1. 

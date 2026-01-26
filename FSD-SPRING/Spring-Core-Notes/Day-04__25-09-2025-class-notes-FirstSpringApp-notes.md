@@ -202,7 +202,7 @@ xmlns:c="http://www.springframework.org/schema/c"
 </beans>
 ```
 ---
-![First Spring App – Class Notes](../Spring-Core-images/Day-04__25-09-2025-class-notes-FirstSpringApp-notes-images.png)
+![First Spring App – Class Notes](Day-04__25-09-2025-class-notes-FirstSpringApp-notes-images.png)
 ___
 ### **My Practice :**
 1. 

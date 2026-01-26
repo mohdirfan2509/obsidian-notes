@@ -181,7 +181,7 @@ public class TestApp {
 }
 ```
 ---
-![Bulk Operation – Partial & Full Loading with DTO](../Hibernate-images/Day-14__17-12-2025-bulk%20operation%20-%20partial%20and%20full%20loading%20with%20DTO%20and%20working%20with%20one%20record-images.png)
+![Bulk Operation – Partial & Full Loading with DTO](Day-14__17-12-2025-bulk%20operation%20-%20partial%20and%20full%20loading%20with%20DTO%20and%20working%20with%20one%20record-images.png)
 ___
 ### **My Practice :**
 1. 

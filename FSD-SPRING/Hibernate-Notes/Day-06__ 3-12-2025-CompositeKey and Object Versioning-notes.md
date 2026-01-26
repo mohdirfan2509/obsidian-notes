@@ -64,7 +64,7 @@ remove(object);  // void
 
 - Refer image
 ---
-![Composite Key and Object Versioning in Hibernate](../Hibernate-images/Day-06__3-12-2025-CompositeKey%20and%20Object%20Versioning-images%20(1).png)
+![Composite Key and Object Versioning in Hibernate](Day-06__3-12-2025-CompositeKey%20and%20Object%20Versioning-images%20(1).png)
 ___
 ### **My Practice :**
 1. 

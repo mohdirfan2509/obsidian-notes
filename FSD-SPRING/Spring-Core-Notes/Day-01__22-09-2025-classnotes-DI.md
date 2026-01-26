@@ -155,7 +155,7 @@ https://spring.io/tools
     _(example: D:\IOISB2024B2)_
 - Click **Launch**
 ---
-![Spring Core Dependency Injection](../Spring-Core-images/Day-01__22-09-2025-classnotes-DI.png)
+![Spring Core Dependency Injection](Day-01__22-09-2025-classnotes-DI.png)
 ___
 ### **My Practice :**
 1. 

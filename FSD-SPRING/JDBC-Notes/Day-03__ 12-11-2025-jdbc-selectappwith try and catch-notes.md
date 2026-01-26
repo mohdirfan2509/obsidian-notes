@@ -174,7 +174,7 @@ public class TestApp {
 ```
 
 ---
-![JDBC Select App with Try and Catch](../JDBC-images/Day-03__12-11-2025-jdbc-selectappwith%20try%20and%20catch-notes-images%20(1).png)
+![JDBC Select App with Try and Catch](Day-03__12-11-2025-jdbc-selectappwith%20try%20and%20catch-notes-images%20(1).png)
 ___
 **My Practice :**
 1. 

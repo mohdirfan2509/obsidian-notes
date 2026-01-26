@@ -158,7 +158,7 @@ Hibernate:
 Record save to database
 ```
 ---
-![Hibernate Architecture](../Hibernate-images/Day-02__26-11-2025-hibernate-architecture%20and%20code-images.png)
+![Hibernate Architecture](Day-02__26-11-2025-hibernate-architecture%20and%20code-images.png)
 ___
 ### **My Practice :** 
 1. 
