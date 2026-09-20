@@ -1,0 +1,1574 @@
+{
+  "day_map": {
+    "24-02-2026": "Day-01",
+    "25-02-2026": "Day-02",
+    "02-03-2026": "Day-03",
+    "03-03-2026": "Day-04",
+    "27-04-2026": "Day-05",
+    "28-04-2026": "Day-06",
+    "29-04-2026": "Day-07",
+    "05-05-2026": "Day-08",
+    "06-05-2026": "Day-09",
+    "07-05-2026": "Day-10",
+    "08-05-2026": "Day-11",
+    "11-05-2026": "Day-12",
+    "12-05-2026": "Day-13",
+    "13-05-2026": "Day-14",
+    "14-05-2026": "Day-15",
+    "15-05-2026": "Day-16",
+    "19-05-2026": "Day-17",
+    "20-05-2026": "Day-18",
+    "21-05-2026": "Day-19",
+    "25-05-2026": "Day-20",
+    "26-05-2026": "Day-21",
+    "27-05-2026": "Day-22",
+    "01-06-2026": "Day-23",
+    "02-06-2026": "Day-24",
+    "03-06-2026": "Day-25",
+    "05-06-2026": "Day-26",
+    "08-06-2026": "Day-27",
+    "09-06-2026": "Day-28",
+    "11-06-2026": "Day-29",
+    "15-06-2026": "Day-30",
+    "16-06-2026": "Day-31",
+    "17-06-2026": "Day-32",
+    "18-06-2026": "Day-33",
+    "21-06-2026": "Day-34",
+    "22-06-2026": "Day-35",
+    "23-06-2026": "Day-36",
+    "24-06-2026": "Day-37",
+    "25-06-2026": "Day-38",
+    "29-06-2026": "Day-39",
+    "30-06-2026": "Day-40",
+    "01-07-2026": "Day-41",
+    "02-07-2026": "Day-42",
+    "03-07-2026": "Day-43",
+    "06-07-2026": "Day-44",
+    "07-07-2026": "Day-45",
+    "08-07-2026": "Day-46",
+    "09-07-2026": "Day-47",
+    "10-07-2026": "Day-48",
+    "20-07-2026": "Day-49",
+    "22-07-2026": "Day-50",
+    "27-07-2026": "Day-51",
+    "31-07-2026": "Day-52",
+    "06-08-2026": "Day-53",
+    "10-08-2026": "Day-54",
+    "11-08-2026": "Day-55",
+    "14-08-2026": "Day-56",
+    "17-08-2026": "Day-57",
+    "18-08-2026": "Day-58",
+    "19-08-2026": "Day-59",
+    "20-08-2026": "Day-60",
+    "24-08-2026": "Day-61",
+    "07-09-2026": "Day-62",
+    "08-09-2026": "Day-63",
+    "10-09-2026": "Day-64",
+    "11-09-2026": "Day-65",
+    "16-09-2026": "Day-66",
+    "18-09-2026": "Day-67"
+  },
+  "dates": [
+    "24-02-2026",
+    "25-02-2026",
+    "02-03-2026",
+    "03-03-2026",
+    "27-04-2026",
+    "28-04-2026",
+    "29-04-2026",
+    "05-05-2026",
+    "06-05-2026",
+    "07-05-2026",
+    "08-05-2026",
+    "11-05-2026",
+    "12-05-2026",
+    "13-05-2026",
+    "14-05-2026",
+    "15-05-2026",
+    "19-05-2026",
+    "20-05-2026",
+    "21-05-2026",
+    "25-05-2026",
+    "26-05-2026",
+    "27-05-2026",
+    "01-06-2026",
+    "02-06-2026",
+    "03-06-2026",
+    "05-06-2026",
+    "08-06-2026",
+    "09-06-2026",
+    "11-06-2026",
+    "15-06-2026",
+    "16-06-2026",
+    "17-06-2026",
+    "18-06-2026",
+    "21-06-2026",
+    "22-06-2026",
+    "23-06-2026",
+    "24-06-2026",
+    "25-06-2026",
+    "29-06-2026",
+    "30-06-2026",
+    "01-07-2026",
+    "02-07-2026",
+    "03-07-2026",
+    "06-07-2026",
+    "07-07-2026",
+    "08-07-2026",
+    "09-07-2026",
+    "10-07-2026",
+    "20-07-2026",
+    "22-07-2026",
+    "27-07-2026",
+    "31-07-2026",
+    "06-08-2026",
+    "10-08-2026",
+    "11-08-2026",
+    "14-08-2026",
+    "17-08-2026",
+    "18-08-2026",
+    "19-08-2026",
+    "20-08-2026",
+    "24-08-2026",
+    "07-09-2026",
+    "08-09-2026",
+    "10-09-2026",
+    "11-09-2026",
+    "16-09-2026",
+    "18-09-2026"
+  ],
+  "images": [
+    {
+      "src": "24-02-2026-introduction to servlet.png",
+      "dest": "Day-01__24-02-2026-introduction-to-servlet.png",
+      "date": "24-02-2026",
+      "day": "Day-01",
+      "slug": "introduction-to-servlet",
+      "md5": "4a3d2b65460776868869b7709b0b1f03",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 661263
+    },
+    {
+      "src": "25-02-2026-ServletLifeCycleprogram-images.png",
+      "dest": "Day-02__25-02-2026-servletlifecycleprogram.png",
+      "date": "25-02-2026",
+      "day": "Day-02",
+      "slug": "servletlifecycleprogram",
+      "md5": "b3d2d0d922692b5b4f06af7ee1240912",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 326977
+    },
+    {
+      "src": "02-03-2026-html-servlet-db-integration-images (1).png",
+      "dest": "Day-03__02-03-2026-html-servlet-db-integration.png",
+      "date": "02-03-2026",
+      "day": "Day-03",
+      "slug": "html-servlet-db-integration-images",
+      "md5": "c150d11134fc5a2b87543508db10d91f",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 426043
+    },
+    {
+      "src": "03-03-2026-servlet-crud-operation.png",
+      "dest": "Day-04__03-03-2026-servlet-crud-operation.png",
+      "date": "03-03-2026",
+      "day": "Day-04",
+      "slug": "servlet-crud-operation",
+      "md5": "a481f19adaa55b9acc5cfc3681b19457",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 629038
+    },
+    {
+      "src": "27-04-2026-servlet_introduction_notes.png",
+      "dest": "Day-05__27-04-2026-servlet-introduction.png",
+      "date": "27-04-2026",
+      "day": "Day-05",
+      "slug": "servlet-introduction-notes",
+      "md5": "ba68ef58bad2959ea0eb4dc8c64db11a",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 623094
+    },
+    {
+      "src": "05-05-2026-SR-HSR-SResp-HSResp-images-HttpServletClass -flow.png",
+      "dest": "Day-08__05-05-2026-sr-hsr-sresp-hsresp-images-httpservletclass-flow.png",
+      "date": "05-05-2026",
+      "day": "Day-08",
+      "slug": "sr-hsr-sresp-hsresp-images-httpservletclass-flow",
+      "md5": "2f6d9b138bdb70b5df229f10543cee32",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 228895
+    },
+    {
+      "src": "06-05-2026-HOT deployment and servlet model.png",
+      "dest": "Day-09__06-05-2026-hot-deployment-and-servlet-model.png",
+      "date": "06-05-2026",
+      "day": "Day-09",
+      "slug": "hot-deployment-and-servlet-model",
+      "md5": "125b7859f958380407e9772c7561ac95",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 287980
+    },
+    {
+      "src": "07-05-2026-ServletModel-procesthread-servlet-thread- HttpServletRequest method-images.png",
+      "dest": "Day-10__07-05-2026-servletmodel-processthread-servlet-thread-httpservletrequest-method.png",
+      "date": "07-05-2026",
+      "day": "Day-10",
+      "slug": "servletmodel-processthread-servlet-thread-httpservletrequest-method",
+      "md5": "b9ecbfdc3c97f48aefaa57b6659f3934",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 161171
+    },
+    {
+      "src": "08-05-2026- ServletRequest methods-images.png",
+      "dest": "Day-11__08-05-2026-servletrequest-methods.png",
+      "date": "08-05-2026",
+      "day": "Day-11",
+      "slug": "servletrequest-methods",
+      "md5": "7d05ce209b7e55ec4f035402ac220a69",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 192275
+    },
+    {
+      "src": "11-05-2026-Math and usage of strict mode in javascript-images.png",
+      "dest": "Day-12__11-05-2026-math-and-usage-of-strict-mode-in-javascript.png",
+      "date": "11-05-2026",
+      "day": "Day-12",
+      "slug": "math-and-usage-of-strict-mode-in-javascript",
+      "md5": "90ca9083c076c937a5c44cd268a6957f",
+      "unmatched": true,
+      "cropped": true,
+      "dest_size": 71975
+    },
+    {
+      "src": "11-05-2026-request object and connecting servlet to database.png",
+      "dest": "Day-12__11-05-2026-request-object-and-connecting-servlet-to-database.png",
+      "date": "11-05-2026",
+      "day": "Day-12",
+      "slug": "request-object-and-connecting-servlet-to-database",
+      "md5": "8d989e54f2baae9d6b7c55da7ece6606",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 448470
+    },
+    {
+      "src": "12-05-2026-ServletContext and ServletConfig object-images.png",
+      "dest": "Day-13__12-05-2026-servletcontext-and-servletconfig-object.png",
+      "date": "12-05-2026",
+      "day": "Day-13",
+      "slug": "servletcontext-and-servletconfig-object",
+      "md5": "48eb1c7931125f8a306b570e7d72fc39",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 253179
+    },
+    {
+      "src": "14-05-2026-Connection pooling in tomcat and ServletResponse sending video file type-images.png",
+      "dest": "Day-15__14-05-2026-connection-pooling-in-tomcat-and-servletresponse-sending-video-file-type.png",
+      "date": "14-05-2026",
+      "day": "Day-15",
+      "slug": "connection-pooling-in-tomcat-and-servletresponse-sending-video-file-type",
+      "md5": "eb3170a77949370a56ef2854dc29c410",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 388390
+    },
+    {
+      "src": "15-05-2026- Redirection using response object- Servlet Communication - dispatching the servlet (1).png",
+      "dest": "Day-16__15-05-2026-redirection-using-response-object-servlet-communication-dispatching-the-servlet-01.png",
+      "date": "15-05-2026",
+      "day": "Day-16",
+      "slug": "redirection-using-response-object-servlet-communication-dispatching-the-servlet",
+      "md5": "bdade834d89cfbedbd37942c3508f8cb",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 827594
+    },
+    {
+      "src": "15-05-2026- Redirection using response object- Servlet Communication - dispatching the servlet.png",
+      "dest": "Day-16__15-05-2026-redirection-using-response-object-servlet-communication-dispatching-the-servlet-02.png",
+      "date": "15-05-2026",
+      "day": "Day-16",
+      "slug": "redirection-using-response-object-servlet-communication-dispatching-the-servlet",
+      "md5": "bdade834d89cfbedbd37942c3508f8cb",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 827594
+    },
+    {
+      "src": "20-05-2026-springmvcflow-introduction to filters-images.png",
+      "dest": "Day-18__20-05-2026-springmvcflow-introduction-to-filters.png",
+      "date": "20-05-2026",
+      "day": "Day-18",
+      "slug": "springmvcflow-introduction-to-filters",
+      "md5": "1d957cb270fe57d1ee44dcc8eebbc8ce",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 521571
+    },
+    {
+      "src": "21-05-2026-Filter and DispatcherType.png",
+      "dest": "Day-19__21-05-2026-filter-and-dispatchertype.png",
+      "date": "21-05-2026",
+      "day": "Day-19",
+      "slug": "filter-and-dispatchertype",
+      "md5": "29036ef0dcfce6451f9a52f90ce02590",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 90516
+    },
+    {
+      "src": "26-05-2026-FilterChaining in Servlet-images.png",
+      "dest": "Day-21__26-05-2026-filterchaining-in-servlet.png",
+      "date": "26-05-2026",
+      "day": "Day-21",
+      "slug": "filterchaining-in-servlet",
+      "md5": "86a5430634aaba35f629c34ad4972099",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 143820
+    },
+    {
+      "src": "27-05-2026-Wraper - request-responsewrapper.png",
+      "dest": "Day-22__27-05-2026-wrapper-request-responsewrapper.png",
+      "date": "27-05-2026",
+      "day": "Day-22",
+      "slug": "wrapper-request-responsewrapper",
+      "md5": "24ca36780f7fbe12ac0aa0a02acb165d",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 593685
+    },
+    {
+      "src": "01-06-2026-session management using Session api-images.png",
+      "dest": "Day-23__01-06-2026-session-management-using-session-api.png",
+      "date": "01-06-2026",
+      "day": "Day-23",
+      "slug": "session-management-using-session-api",
+      "md5": "4f5efc9626801ea0fba388e4f9b2f95d",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 383175
+    },
+    {
+      "src": "03-06-2026-Cookie in persistent and nonpersistent  - introdution to URLRewriting-images.png",
+      "dest": "Day-25__03-06-2026-cookie-in-persistent-and-nonpersistent-introduction-to-urlrewriting.png",
+      "date": "03-06-2026",
+      "day": "Day-25",
+      "slug": "cookie-in-persistent-and-nonpersistent-introduction-to-urlrewriting",
+      "md5": "eaca023dfc91a7319362c427e1071eca",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 263444
+    },
+    {
+      "src": "05-06-2026-crud project using servlet-database-jsp.png",
+      "dest": "Day-26__05-06-2026-crud-project-using-servlet-database-jsp.png",
+      "date": "05-06-2026",
+      "day": "Day-26",
+      "slug": "crud-project-using-servlet-database-jsp",
+      "md5": "1f4e8802a6961aaf096d147e9b1202f8",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 177959
+    },
+    {
+      "src": "08-06-2026-jsp introduction.png",
+      "dest": "Day-27__08-06-2026-jsp-introduction.png",
+      "date": "08-06-2026",
+      "day": "Day-27",
+      "slug": "jsp-introduction",
+      "md5": "f95bdf7582e0ab12b0f0200f531afac0",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 449226
+    },
+    {
+      "src": "09-06-2026-jsp life cycle - jsp comments - type of tags to write java code inside jsp-images.png",
+      "dest": "Day-28__09-06-2026-jsp-life-cycle-jsp-comments-type-of-tags-to-write-java-code-inside-jsp.png",
+      "date": "09-06-2026",
+      "day": "Day-28",
+      "slug": "jsp-life-cycle-jsp-comments-type-of-tags-to-write-java-code-inside-jsp",
+      "md5": "4db3b44d985bf03a936124f589d5d5fa",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 68382
+    },
+    {
+      "src": "11-06-2026-jsp directives page - import-session-isELIgnored-langauge-pageEncoding-contentType-use request object-images.png",
+      "dest": "Day-29__11-06-2026-jsp-directives-page-import-session-iselignored-language-pageencoding-contenttype-use-request-object.png",
+      "date": "11-06-2026",
+      "day": "Day-29",
+      "slug": "jsp-directives-page-import-session-iselignored-language-pageencoding-contenttype-use-request-object",
+      "md5": "9d1b033d577a7a4ea482cb2403492e09",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 56735
+    },
+    {
+      "src": "15-06-2026-jspimplicitobjects-pagedirective-includedirective.png",
+      "dest": "Day-30__15-06-2026-jspimplicitobjects-pagedirective-includedirective.png",
+      "date": "15-06-2026",
+      "day": "Day-30",
+      "slug": "jspimplicitobjects-pagedirective-includedirective",
+      "md5": "37f67d7569760687053ba06a0cf210ba",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 183170
+    },
+    {
+      "src": "16-06-2026-all implicit objects is covered.png",
+      "dest": "Day-31__16-06-2026-all-implicit-objects-is-covered.png",
+      "date": "16-06-2026",
+      "day": "Day-31",
+      "slug": "all-implicit-objects-is-covered",
+      "md5": "bda89c8952639a95f02b3da3c1497869",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 596223
+    },
+    {
+      "src": "17-06-2026-pageContext operations and introduction to EL and JSTL-images.png",
+      "dest": "Day-32__17-06-2026-pagecontext-operations-and-introduction-to-el-and-jstl.png",
+      "date": "17-06-2026",
+      "day": "Day-32",
+      "slug": "pagecontext-operations-and-introduction-to-el-and-jstl",
+      "md5": "13b6fbcc56dc074ee1bf98ab5f8a4655",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 246502
+    },
+    {
+      "src": "21-06-2026-Spring MVC - read parameter - use model to display- form binding.png",
+      "dest": "Day-34__21-06-2026-spring-mvc-read-parameter-use-model-to-display-form-binding.png",
+      "date": "21-06-2026",
+      "day": "Day-34",
+      "slug": "spring-mvc-read-parameter-use-model-to-display-form-binding",
+      "md5": "77f52128718f9fd07fad74a60d9dad96",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 258023
+    },
+    {
+      "src": "23-06-2026-EL operators and JSTL core library-images.png",
+      "dest": "Day-36__23-06-2026-el-operators-and-jstl-core-library.png",
+      "date": "23-06-2026",
+      "day": "Day-36",
+      "slug": "el-operators-and-jstl-core-library",
+      "md5": "fa31f4a4b4488b86525a4e0d8aa97441",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 61844
+    },
+    {
+      "src": "24-06-2026-coretags of JSTL-if-if-else-switch-foreach-urltags-images.png",
+      "dest": "Day-37__24-06-2026-coretags-of-jstl-if-if-else-switch-foreach-urltags.png",
+      "date": "24-06-2026",
+      "day": "Day-37",
+      "slug": "coretags-of-jstl-if-if-else-switch-foreach-urltags",
+      "md5": "22ba045e77b8c1b8a58609f91c68cf69",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 69126
+    },
+    {
+      "src": "29-06-2026-functions in JSTL and introduction to Thymeleaf.png",
+      "dest": "Day-39__29-06-2026-functions-in-jstl-and-introduction-to-thymeleaf.png",
+      "date": "29-06-2026",
+      "day": "Day-39",
+      "slug": "functions-in-jstl-and-introduction-to-thymeleaf",
+      "md5": "163bae3bfb493d50904183f8fe40d05f",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 156074
+    },
+    {
+      "src": "02-07-2026-thymeleaf uitility objects like strings-temporals-list-numbers and working with url expression-images.png",
+      "dest": "Day-42__02-07-2026-thymeleaf-utility-objects-like-strings-temporals-list-numbers-and-working-with-url-expression.png",
+      "date": "02-07-2026",
+      "day": "Day-42",
+      "slug": "thymeleaf-utility-objects-like-strings-temporals-list-numbers-and-working-with-url-expression",
+      "md5": "f1377eddf55c869517462eaa97331b19",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 56920
+    },
+    {
+      "src": "03-07-2026-servlet integration with thyemelaf + fragment expression in thymeleaf-images.png",
+      "dest": "Day-43__03-07-2026-servlet-integration-with-thymeleaf-plus-fragment-expression-in-thymeleaf.png",
+      "date": "03-07-2026",
+      "day": "Day-43",
+      "slug": "servlet-integration-with-thymeleaf-plus-fragment-expression-in-thymeleaf",
+      "md5": "5d434cb3480d28065062993ba325ac6a",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 43974
+    },
+    {
+      "src": "06-07-2026-Servlet+Thymeleaf+hibernate-fully fledged EmployeemanagementApp-images.png",
+      "dest": "Day-44__06-07-2026-servlet-plus-thymeleaf-plus-hibernate-fully-fledged-employeemanagementapp.png",
+      "date": "06-07-2026",
+      "day": "Day-44",
+      "slug": "servlet-plus-thymeleaf-plus-hibernate-fully-fledged-employeemanagementapp",
+      "md5": "0b582817955f25ff3048a3b3af026fe0",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 404227
+    },
+    {
+      "src": "07-07-2026-doubleposting-embededserver in maven.png",
+      "dest": "Day-45__07-07-2026-doubleposting-embedded-server-in-maven.png",
+      "date": "07-07-2026",
+      "day": "Day-45",
+      "slug": "doubleposting-embedded-server-in-maven",
+      "md5": "136a792e7abb671c7a189917a909cf48",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 369880
+    },
+    {
+      "src": "08-07-2026-Updateoperation - maven architecture -archetypes.png",
+      "dest": "Day-46__08-07-2026-updateoperation-maven-architecture-archetypes.png",
+      "date": "08-07-2026",
+      "day": "Day-46",
+      "slug": "updateoperation-maven-architecture-archetypes",
+      "md5": "bf25644bbb0a80c685815c774688e2af",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 485325
+    },
+    {
+      "src": "10-07-2026-maven-full-lifecyle with creation of fat jar.png",
+      "dest": "Day-48__10-07-2026-maven-full-lifecycle-with-creation-of-fat-jar.png",
+      "date": "10-07-2026",
+      "day": "Day-48",
+      "slug": "maven-full-lifecycle-with-creation-of-fat-jar",
+      "md5": "d7696ca1a10f2a5dc3a4cf4daf058d5d",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 294480
+    },
+    {
+      "src": "20-07-2026-springmvc -first app-images.png",
+      "dest": "Day-49__20-07-2026-springmvc-first-app.png",
+      "date": "20-07-2026",
+      "day": "Day-49",
+      "slug": "springmvc-first-app",
+      "md5": "5b9f93f937035a91b402b03333f9211a",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 161617
+    },
+    {
+      "src": "22-07-2026-modelattribute to load- 2way binding-exception handling at controller and globally.png",
+      "dest": "Day-50__22-07-2026-modelattribute-to-load-2way-binding-exception-handling-at-controller-and-globally.png",
+      "date": "22-07-2026",
+      "day": "Day-50",
+      "slug": "modelattribute-to-load-2way-binding-exception-handling-at-controller-and-globally",
+      "md5": "712d4ed711396737a41d310781cca530",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 1210027
+    },
+    {
+      "src": "27-07-2026-logging basic and profiling with springboot-images.png",
+      "dest": "Day-51__27-07-2026-logging-basic-and-profiling-with-springboot.png",
+      "date": "27-07-2026",
+      "day": "Day-51",
+      "slug": "logging-basic-and-profiling-with-springboot",
+      "md5": "e0834692aef85c6cfe7fb7220b2b3960",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 415262
+    },
+    {
+      "src": "31-07-2026-springmvc-logging with pom.xml exclude feature.png",
+      "dest": "Day-52__31-07-2026-springmvc-logging-with-pom-xml-exclude-feature.png",
+      "date": "31-07-2026",
+      "day": "Day-52",
+      "slug": "springmvc-logging-with-pom-xml-exclude-feature",
+      "md5": "e7466fa10dd3a2240e8bc504fa43ecbc",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 905698
+    },
+    {
+      "src": "06-08-2026-introduction to webservices - java - to - json-images.png",
+      "dest": "Day-53__06-08-2026-introduction-to-webservices-java-to-json.png",
+      "date": "06-08-2026",
+      "day": "Day-53",
+      "slug": "introduction-to-webservices-java-to-json",
+      "md5": "3c2075d85c55e9baf557eed992596ff3",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 456709
+    },
+    {
+      "src": "10-08-2026- working with spring rest using spring boot introduction.png",
+      "dest": "Day-54__10-08-2026-working-with-spring-rest-using-spring-boot-introduction.png",
+      "date": "10-08-2026",
+      "day": "Day-54",
+      "slug": "working-with-spring-rest-using-spring-boot-introduction",
+      "md5": "e0dac02900dc471efd168304a6f8f19d",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 1105270
+    },
+    {
+      "src": "14-08-2026-irctc service- swagger - introduction to RestTemplate-project.png",
+      "dest": "Day-56__14-08-2026-irctc-service-swagger-introduction-to-resttemplate-project.png",
+      "date": "14-08-2026",
+      "day": "Day-56",
+      "slug": "irctc-service-swagger-introduction-to-resttemplate-project",
+      "md5": "61465ae095affb6a47eaeb2a890e8efb",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 1429684
+    },
+    {
+      "src": "17-08-2026-ResTemplate in synch mode-images.png",
+      "dest": "Day-57__17-08-2026-resttemplate-in-sync-mode.png",
+      "date": "17-08-2026",
+      "day": "Day-57",
+      "slug": "resttemplate-in-sync-mode",
+      "md5": "1f27d6b7b34985a6d4059d5c670a416b",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 447515
+    },
+    {
+      "src": "18-08-2026-Webclient in synch mode using Mono-images.png",
+      "dest": "Day-58__18-08-2026-webclient-in-sync-mode-using-mono.png",
+      "date": "18-08-2026",
+      "day": "Day-58",
+      "slug": "webclient-in-sync-mode-using-mono",
+      "md5": "d71749be27a80fc57ffe25a8679b2784",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 276892
+    },
+    {
+      "src": "19-08-2026-Webclient in Asynch mode using Mono and Exceptionhandling in rest-images.png",
+      "dest": "Day-59__19-08-2026-webclient-in-async-mode-using-mono-and-exceptionhandling-in-rest.png",
+      "date": "19-08-2026",
+      "day": "Day-59",
+      "slug": "webclient-in-async-mode-using-mono-and-exceptionhandling-in-rest",
+      "md5": "87e99d4ddd21c43bc233e0110e656822",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 588543
+    },
+    {
+      "src": "20-08-2026-working with asycn for MakeMyTrip using onStatusCode.png",
+      "dest": "Day-60__20-08-2026-working-with-async-for-makemytrip-using-onstatuscode.png",
+      "date": "20-08-2026",
+      "day": "Day-60",
+      "slug": "working-with-async-for-makemytrip-using-onstatuscode",
+      "md5": "3e667533ea0ed54595296ccab1d9ad8f",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 140414
+    },
+    {
+      "src": "24-08-2026-Mono object and its method-images.png",
+      "dest": "Day-61__24-08-2026-mono-object-and-its-method.png",
+      "date": "24-08-2026",
+      "day": "Day-61",
+      "slug": "mono-object-and-its-method",
+      "md5": "120a44d526684bd4ca53744d26c975a7",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 359573
+    },
+    {
+      "src": "07-09-2026-hateos using springboot-images.png",
+      "dest": "Day-62__07-09-2026-hateoas-using-springboot.png",
+      "date": "07-09-2026",
+      "day": "Day-62",
+      "slug": "hateoas-using-springboot",
+      "md5": "b35aaf505f6ee17008c94a58da7ff199",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 571707
+    },
+    {
+      "src": "08-09-2026-spring-data-rest-customquery- actuators with endpoints and autloading of data to database-images.png",
+      "dest": "Day-63__08-09-2026-spring-data-rest-customquery-actuators-with-endpoints-and-autoloading-of-data-to-database.png",
+      "date": "08-09-2026",
+      "day": "Day-63",
+      "slug": "spring-data-rest-customquery-actuators-with-endpoints-and-autoloading-of-data-to-database",
+      "md5": "318cd3b6c72f3faaef0d4ffe18190c3a",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 322053
+    },
+    {
+      "src": "10-09-2026-microservices-architecture-images (1).png",
+      "dest": "Day-64__10-09-2026-microservices-architecture-02.png",
+      "date": "10-09-2026",
+      "day": "Day-64",
+      "slug": "microservices-architecture-images",
+      "md5": "ceb2577087a3747e90380d93f3f992bf",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 1056560
+    },
+    {
+      "src": "10-09-2026-microservices-architecture-images.png",
+      "dest": "Day-64__10-09-2026-microservices-architecture-01.png",
+      "date": "10-09-2026",
+      "day": "Day-64",
+      "slug": "microservices-architecture",
+      "md5": "b16ac000cdffff46fd467a7c0a9f75cf",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 1038283
+    },
+    {
+      "src": "16-09-2026-FeignClient examples-images.png",
+      "dest": "Day-66__16-09-2026-feignclient-examples.png",
+      "date": "16-09-2026",
+      "day": "Day-66",
+      "slug": "feignclient-examples",
+      "md5": "73245238e607b764e2df3e843f4c7282",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 151982
+    },
+    {
+      "src": "18-09-2026-loadbalancer-api-gateway-trace-idspan-idusing zipkin-images.png",
+      "dest": "Day-67__18-09-2026-loadbalancer-api-gateway-trace-id-span-idusing-zipkin.png",
+      "date": "18-09-2026",
+      "day": "Day-67",
+      "slug": "loadbalancer-api-gateway-trace-id-span-idusing-zipkin",
+      "md5": "904a82408edf25625d8b5f344c715413",
+      "unmatched": false,
+      "cropped": true,
+      "dest_size": 835766
+    }
+  ],
+  "notes": [
+    {
+      "src": "25-02-2026-ServletLifeCycleprogram.txt",
+      "dest": "Day-02__25-02-2026-servletlifecycleprogram.md",
+      "date": "25-02-2026",
+      "day": "Day-02",
+      "slug": "servletlifecycleprogram",
+      "title": "Servletlifecycleprogram",
+      "images": [
+        "Day-02__25-02-2026-servletlifecycleprogram.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "27-04-2026-servlet_introduction_notes.txt",
+      "dest": "Day-05__27-04-2026-servlet-introduction.md",
+      "date": "27-04-2026",
+      "day": "Day-05",
+      "slug": "servlet-introduction",
+      "title": "Servlet Introduction",
+      "images": [
+        "Day-05__27-04-2026-servlet-introduction.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "28-04-2026-working with GenericServlet.txt",
+      "dest": "Day-06__28-04-2026-working-with-genericservlet.md",
+      "date": "28-04-2026",
+      "day": "Day-06",
+      "slug": "working-with-genericservlet",
+      "title": "Working with GenericServlet",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "29-04-2026-working with GenericServlet and HttpServlet.txt",
+      "dest": "Day-07__29-04-2026-working-with-genericservlet-and-httpservlet.md",
+      "date": "29-04-2026",
+      "day": "Day-07",
+      "slug": "working-with-genericservlet-and-httpservlet",
+      "title": "Working with GenericServlet and HttpServlet",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "05-05-2026-SR-HSR-SResp-HSResp-images-HttpServletClass-notes.txt",
+      "dest": "Day-08__05-05-2026-sr-hsr-sresp-hsresp-images-httpservletclass.md",
+      "date": "05-05-2026",
+      "day": "Day-08",
+      "slug": "sr-hsr-sresp-hsresp-images-httpservletclass",
+      "title": "Sr Hsr Sresp Hsresp Images Httpservletclass",
+      "images": [
+        "Day-08__05-05-2026-sr-hsr-sresp-hsresp-images-httpservletclass-flow.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "06-05-2026-HOT deployment and servlet model-notes.txt",
+      "dest": "Day-09__06-05-2026-hot-deployment-and-servlet-model.md",
+      "date": "06-05-2026",
+      "day": "Day-09",
+      "slug": "hot-deployment-and-servlet-model",
+      "title": "Hot Deployment and Servlet Model",
+      "images": [
+        "Day-09__06-05-2026-hot-deployment-and-servlet-model.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "07-05-2026-ServletModel-procesthread-servlet-thread- HttpServletRequest methods.txt",
+      "dest": "Day-10__07-05-2026-servletmodel-processthread-servlet-thread-httpservletrequest-methods.md",
+      "date": "07-05-2026",
+      "day": "Day-10",
+      "slug": "servletmodel-processthread-servlet-thread-httpservletrequest-methods",
+      "title": "Servletmodel Processthread Servlet Thread HttpServletRequest Methods",
+      "images": [
+        "Day-10__07-05-2026-servletmodel-processthread-servlet-thread-httpservletrequest-method.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "08-05-2026- ServletRequest methods.txt",
+      "dest": "Day-11__08-05-2026-servletrequest-methods.md",
+      "date": "08-05-2026",
+      "day": "Day-11",
+      "slug": "servletrequest-methods",
+      "title": "ServletRequest Methods",
+      "images": [
+        "Day-11__08-05-2026-servletrequest-methods.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "11-05-2026-request object and connecting servlet to database-notes.txt",
+      "dest": "Day-12__11-05-2026-request-object-and-connecting-servlet-to-database.md",
+      "date": "11-05-2026",
+      "day": "Day-12",
+      "slug": "request-object-and-connecting-servlet-to-database",
+      "title": "Request Object and Connecting Servlet to Database",
+      "images": [
+        "Day-12__11-05-2026-request-object-and-connecting-servlet-to-database.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "12-05-2026-ServletContext and ServletConfig object.txt",
+      "dest": "Day-13__12-05-2026-servletcontext-and-servletconfig-object.md",
+      "date": "12-05-2026",
+      "day": "Day-13",
+      "slug": "servletcontext-and-servletconfig-object",
+      "title": "ServletContext and ServletConfig Object",
+      "images": [
+        "Day-13__12-05-2026-servletcontext-and-servletconfig-object.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "13-05-2026-Servletcontext-SErvletConfig - attribute-parameter-Event-listener-ServerConnection pool in tomcat.txt",
+      "dest": "Day-14__13-05-2026-servletcontext-servletconfig-attribute-parameter-event-listener-serverconnection-pool-in-tomcat.md",
+      "date": "13-05-2026",
+      "day": "Day-14",
+      "slug": "servletcontext-servletconfig-attribute-parameter-event-listener-serverconnection-pool-in-tomcat",
+      "title": "ServletContext ServletConfig Attribute Parameter Event Listener Serverconnection Pool in Tomcat",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "14-05-2026-Connection pooling in tomcat and ServletResponse sending video file type.txt",
+      "dest": "Day-15__14-05-2026-connection-pooling-in-tomcat-and-servletresponse-sending-video-file-type.md",
+      "date": "14-05-2026",
+      "day": "Day-15",
+      "slug": "connection-pooling-in-tomcat-and-servletresponse-sending-video-file-type",
+      "title": "Connection Pooling in Tomcat and ServletResponse Sending Video File Type",
+      "images": [
+        "Day-15__14-05-2026-connection-pooling-in-tomcat-and-servletresponse-sending-video-file-type.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "15-05-2026- Redirection using response object- Servlet Communication - dispatching the servlet-notes.txt",
+      "dest": "Day-16__15-05-2026-redirection-using-response-object-servlet-communication-dispatching-the-servlet.md",
+      "date": "15-05-2026",
+      "day": "Day-16",
+      "slug": "redirection-using-response-object-servlet-communication-dispatching-the-servlet",
+      "title": "Redirection using Response Object Servlet Communication Dispatching the Servlet",
+      "images": [
+        "Day-16__15-05-2026-redirection-using-response-object-servlet-communication-dispatching-the-servlet-01.png",
+        "Day-16__15-05-2026-redirection-using-response-object-servlet-communication-dispatching-the-servlet-02.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "19-05-2026-include-forward-using Request and Context object-diff bw-redirect and forward.txt",
+      "dest": "Day-17__19-05-2026-include-forward-using-request-and-context-object-diff-bw-redirect-and-forward.md",
+      "date": "19-05-2026",
+      "day": "Day-17",
+      "slug": "include-forward-using-request-and-context-object-diff-bw-redirect-and-forward",
+      "title": "Include Forward using Request and Context Object Diff bw Redirect and Forward",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "20-05-2026-springmvcflow-introduction to filters.txt",
+      "dest": "Day-18__20-05-2026-springmvcflow-introduction-to-filters.md",
+      "date": "20-05-2026",
+      "day": "Day-18",
+      "slug": "springmvcflow-introduction-to-filters",
+      "title": "Springmvcflow Introduction to Filters",
+      "images": [
+        "Day-18__20-05-2026-springmvcflow-introduction-to-filters.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "21-05-2026-Filter and DispatcherType-notes.txt",
+      "dest": "Day-19__21-05-2026-filter-and-dispatchertype.md",
+      "date": "21-05-2026",
+      "day": "Day-19",
+      "slug": "filter-and-dispatchertype",
+      "title": "Filter and DispatcherType",
+      "images": [
+        "Day-19__21-05-2026-filter-and-dispatchertype.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "25-05-2026-DispatcherType with examples and Introduction to FilterChain.txt",
+      "dest": "Day-20__25-05-2026-dispatchertype-with-examples-and-introduction-to-filterchain.md",
+      "date": "25-05-2026",
+      "day": "Day-20",
+      "slug": "dispatchertype-with-examples-and-introduction-to-filterchain",
+      "title": "DispatcherType with Examples and Introduction to FilterChain",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "26-05-2026-FilterChaining in Servlet.txt",
+      "dest": "Day-21__26-05-2026-filterchaining-in-servlet.md",
+      "date": "26-05-2026",
+      "day": "Day-21",
+      "slug": "filterchaining-in-servlet",
+      "title": "Filterchaining in Servlet",
+      "images": [
+        "Day-21__26-05-2026-filterchaining-in-servlet.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "27-05-2026-Wraper - request-responsewrapper-notes.txt",
+      "dest": "Day-22__27-05-2026-wrapper-request-responsewrapper.md",
+      "date": "27-05-2026",
+      "day": "Day-22",
+      "slug": "wrapper-request-responsewrapper",
+      "title": "Wrapper Request Responsewrapper",
+      "images": [
+        "Day-22__27-05-2026-wrapper-request-responsewrapper.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "01-06-2026-session management using Session api.txt",
+      "dest": "Day-23__01-06-2026-session-management-using-session-api.md",
+      "date": "01-06-2026",
+      "day": "Day-23",
+      "slug": "session-management-using-session-api",
+      "title": "Session Management using Session API",
+      "images": [
+        "Day-23__01-06-2026-session-management-using-session-api.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "02-06-2026-Session - Cookie and its limitation.txt",
+      "dest": "Day-24__02-06-2026-session-cookie-and-its-limitation.md",
+      "date": "02-06-2026",
+      "day": "Day-24",
+      "slug": "session-cookie-and-its-limitation",
+      "title": "Session Cookie and Its Limitation",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "03-06-2026-Cookie in persistent and nonpersistent  - introdution to URLRewriting.txt",
+      "dest": "Day-25__03-06-2026-cookie-in-persistent-and-nonpersistent-introduction-to-urlrewriting.md",
+      "date": "03-06-2026",
+      "day": "Day-25",
+      "slug": "cookie-in-persistent-and-nonpersistent-introduction-to-urlrewriting",
+      "title": "Cookie in Persistent and Nonpersistent Introduction to URLRewriting",
+      "images": [
+        "Day-25__03-06-2026-cookie-in-persistent-and-nonpersistent-introduction-to-urlrewriting.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "05-06-2026-CRUD project using HTML CSS and Servlet.txt",
+      "dest": "Day-26__05-06-2026-crud-project-using-html-css-and-servlet.md",
+      "date": "05-06-2026",
+      "day": "Day-26",
+      "slug": "crud-project-using-html-css-and-servlet",
+      "title": "CRUD Project using HTML CSS and Servlet",
+      "images": [
+        "Day-26__05-06-2026-crud-project-using-servlet-database-jsp.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "08-06-2026-jsp introduction-notes.txt",
+      "dest": "Day-27__08-06-2026-jsp-introduction.md",
+      "date": "08-06-2026",
+      "day": "Day-27",
+      "slug": "jsp-introduction",
+      "title": "JSP Introduction",
+      "images": [
+        "Day-27__08-06-2026-jsp-introduction.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "09-06-2026-jsp life cycle - jsp comments - type of tags to write java code inside jsp.txt",
+      "dest": "Day-28__09-06-2026-jsp-life-cycle-jsp-comments-type-of-tags-to-write-java-code-inside-jsp.md",
+      "date": "09-06-2026",
+      "day": "Day-28",
+      "slug": "jsp-life-cycle-jsp-comments-type-of-tags-to-write-java-code-inside-jsp",
+      "title": "JSP Life Cycle JSP Comments Type of Tags to Write Java Code Inside JSP",
+      "images": [
+        "Day-28__09-06-2026-jsp-life-cycle-jsp-comments-type-of-tags-to-write-java-code-inside-jsp.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "11-06-2026-jsp directives page - import-session-isELIgnored-langauge-pageEncoding-contentType-use request object.txt",
+      "dest": "Day-29__11-06-2026-jsp-directives-page-import-session-iselignored-language-pageencoding-contenttype-use-request-object.md",
+      "date": "11-06-2026",
+      "day": "Day-29",
+      "slug": "jsp-directives-page-import-session-iselignored-language-pageencoding-contenttype-use-request-object",
+      "title": "JSP Directives Page Import Session Iselignored Language Pageencoding Contenttype Use Request Object",
+      "images": [
+        "Day-29__11-06-2026-jsp-directives-page-import-session-iselignored-language-pageencoding-contenttype-use-request-object.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "15-06-2026-jspimplicitobjects-pagedirective-includedirective-notes.txt",
+      "dest": "Day-30__15-06-2026-jspimplicitobjects-pagedirective-includedirective.md",
+      "date": "15-06-2026",
+      "day": "Day-30",
+      "slug": "jspimplicitobjects-pagedirective-includedirective",
+      "title": "Jspimplicitobjects Pagedirective Includedirective",
+      "images": [
+        "Day-30__15-06-2026-jspimplicitobjects-pagedirective-includedirective.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "16-06-2026-all implicit objects is covered and taglib directive.txt",
+      "dest": "Day-31__16-06-2026-all-implicit-objects-is-covered-and-taglib-directive.md",
+      "date": "16-06-2026",
+      "day": "Day-31",
+      "slug": "all-implicit-objects-is-covered-and-taglib-directive",
+      "title": "All Implicit Objects Is Covered and Taglib Directive",
+      "images": [
+        "Day-31__16-06-2026-all-implicit-objects-is-covered.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "17-06-2026-pageContext operations and introduction to EL and JSTL.txt",
+      "dest": "Day-32__17-06-2026-pagecontext-operations-and-introduction-to-el-and-jstl.md",
+      "date": "17-06-2026",
+      "day": "Day-32",
+      "slug": "pagecontext-operations-and-introduction-to-el-and-jstl",
+      "title": "Pagecontext Operations and Introduction to EL and JSTL",
+      "images": [
+        "Day-32__17-06-2026-pagecontext-operations-and-introduction-to-el-and-jstl.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "18-06-2026-EL Syntax - EL implicit objects - param,paramvalues-header-headerValues.txt",
+      "dest": "Day-33__18-06-2026-el-syntax-el-implicit-objects-param-paramvalues-header-headervalues.md",
+      "date": "18-06-2026",
+      "day": "Day-33",
+      "slug": "el-syntax-el-implicit-objects-param-paramvalues-header-headervalues",
+      "title": "EL Syntax EL Implicit Objects Param Paramvalues Header Headervalues",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "21-06-2026-Spring MVC - read parameter - use model to display- form binding-notes.txt",
+      "dest": "Day-34__21-06-2026-spring-mvc-read-parameter-use-model-to-display-form-binding.md",
+      "date": "21-06-2026",
+      "day": "Day-34",
+      "slug": "spring-mvc-read-parameter-use-model-to-display-form-binding",
+      "title": "Spring MVC Read Parameter Use Model to Display Form Binding",
+      "images": [
+        "Day-34__21-06-2026-spring-mvc-read-parameter-use-model-to-display-form-binding.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "22-06-2026-EL implicit objects and introduction to JSTL with operators.txt",
+      "dest": "Day-35__22-06-2026-el-implicit-objects-and-introduction-to-jstl-with-operators.md",
+      "date": "22-06-2026",
+      "day": "Day-35",
+      "slug": "el-implicit-objects-and-introduction-to-jstl-with-operators",
+      "title": "EL Implicit Objects and Introduction to JSTL with Operators",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "23-06-2026-EL operators and JSTL core library.txt",
+      "dest": "Day-36__23-06-2026-el-operators-and-jstl-core-library.md",
+      "date": "23-06-2026",
+      "day": "Day-36",
+      "slug": "el-operators-and-jstl-core-library",
+      "title": "EL Operators and JSTL Core Library",
+      "images": [
+        "Day-36__23-06-2026-el-operators-and-jstl-core-library.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "24-06-2026-coretags of JSTL-if-if-else-switch-foreach-urltags.txt",
+      "dest": "Day-37__24-06-2026-coretags-of-jstl-if-if-else-switch-foreach-urltags.md",
+      "date": "24-06-2026",
+      "day": "Day-37",
+      "slug": "coretags-of-jstl-if-if-else-switch-foreach-urltags",
+      "title": "Coretags of JSTL If If Else Switch Foreach Urltags",
+      "images": [
+        "Day-37__24-06-2026-coretags-of-jstl-if-if-else-switch-foreach-urltags.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "25-06-2026-format tags,forEachtokens-redirect-import-one program to demonstrate.txt",
+      "dest": "Day-38__25-06-2026-format-tags-foreachtokens-redirect-import-one-program-to-demonstrate.md",
+      "date": "25-06-2026",
+      "day": "Day-38",
+      "slug": "format-tags-foreachtokens-redirect-import-one-program-to-demonstrate",
+      "title": "Format Tags Foreachtokens Redirect Import One Program to Demonstrate",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "29-06-2026-functions in JSTL and introduction to Thymeleaf-notes.txt",
+      "dest": "Day-39__29-06-2026-functions-in-jstl-and-introduction-to-thymeleaf.md",
+      "date": "29-06-2026",
+      "day": "Day-39",
+      "slug": "functions-in-jstl-and-introduction-to-thymeleaf",
+      "title": "Functions in JSTL and Introduction to Thymeleaf",
+      "images": [
+        "Day-39__29-06-2026-functions-in-jstl-and-introduction-to-thymeleaf.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "30-06-2026-thymeleaf atributes of text and each.txt",
+      "dest": "Day-40__30-06-2026-thymeleaf-attributes-of-text-and-each.md",
+      "date": "30-06-2026",
+      "day": "Day-40",
+      "slug": "thymeleaf-attributes-of-text-and-each",
+      "title": "Thymeleaf Attributes of Text and Each",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "01-07-2026-thymeleaf attributes and thymeleaf element - if-unless-switch-case-with-class-block-object.txt",
+      "dest": "Day-41__01-07-2026-thymeleaf-attributes-and-thymeleaf-element-if-unless-switch-case-with-class-block-object.md",
+      "date": "01-07-2026",
+      "day": "Day-41",
+      "slug": "thymeleaf-attributes-and-thymeleaf-element-if-unless-switch-case-with-class-block-object",
+      "title": "Thymeleaf Attributes and Thymeleaf Element If Unless Switch Case with Class Block Object",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "02-07-2026-thymeleaf uitility objects like strings-temporals-list-numbers and working with url expression.txt",
+      "dest": "Day-42__02-07-2026-thymeleaf-utility-objects-like-strings-temporals-list-numbers-and-working-with-url-expression.md",
+      "date": "02-07-2026",
+      "day": "Day-42",
+      "slug": "thymeleaf-utility-objects-like-strings-temporals-list-numbers-and-working-with-url-expression",
+      "title": "Thymeleaf Utility Objects Like Strings Temporals List Numbers and Working with URL Expression",
+      "images": [
+        "Day-42__02-07-2026-thymeleaf-utility-objects-like-strings-temporals-list-numbers-and-working-with-url-expression.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "03-07-2026-servlet integration with thyemelaf + fragment expression in thymeleaf.txt",
+      "dest": "Day-43__03-07-2026-servlet-integration-with-thymeleaf-plus-fragment-expression-in-thymeleaf.md",
+      "date": "03-07-2026",
+      "day": "Day-43",
+      "slug": "servlet-integration-with-thymeleaf-plus-fragment-expression-in-thymeleaf",
+      "title": "Servlet Integration with Thymeleaf Plus Fragment Expression in Thymeleaf",
+      "images": [
+        "Day-43__03-07-2026-servlet-integration-with-thymeleaf-plus-fragment-expression-in-thymeleaf.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "06-07-2026-Servlet+Thymeleaf+hibernate-fully fledged EmployeemanagementApp.txt",
+      "dest": "Day-44__06-07-2026-servlet-plus-thymeleaf-plus-hibernate-fully-fledged-employeemanagementapp.md",
+      "date": "06-07-2026",
+      "day": "Day-44",
+      "slug": "servlet-plus-thymeleaf-plus-hibernate-fully-fledged-employeemanagementapp",
+      "title": "Servlet Plus Thymeleaf Plus Hibernate Fully Fledged Employeemanagementapp",
+      "images": [
+        "Day-44__06-07-2026-servlet-plus-thymeleaf-plus-hibernate-fully-fledged-employeemanagementapp.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "07-07-2026-doubleposting-embededserver in maven-notes.txt",
+      "dest": "Day-45__07-07-2026-doubleposting-embedded-server-in-maven.md",
+      "date": "07-07-2026",
+      "day": "Day-45",
+      "slug": "doubleposting-embedded-server-in-maven",
+      "title": "Doubleposting Embedded Server in Maven",
+      "images": [
+        "Day-45__07-07-2026-doubleposting-embedded-server-in-maven.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "08-07-2026-Updateoperation - maven architecture -archetypes-notes.txt",
+      "dest": "Day-46__08-07-2026-updateoperation-maven-architecture-archetypes.md",
+      "date": "08-07-2026",
+      "day": "Day-46",
+      "slug": "updateoperation-maven-architecture-archetypes",
+      "title": "Updateoperation Maven Architecture Archetypes",
+      "images": [
+        "Day-46__08-07-2026-updateoperation-maven-architecture-archetypes.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "09-07-2026-maven life cycle methods.txt",
+      "dest": "Day-47__09-07-2026-maven-life-cycle-methods.md",
+      "date": "09-07-2026",
+      "day": "Day-47",
+      "slug": "maven-life-cycle-methods",
+      "title": "Maven Life Cycle Methods",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "10-07-2026-maven-full-lifecyle with creation of fat jar-notes.txt",
+      "dest": "Day-48__10-07-2026-maven-full-lifecycle-with-creation-of-fat-jar.md",
+      "date": "10-07-2026",
+      "day": "Day-48",
+      "slug": "maven-full-lifecycle-with-creation-of-fat-jar",
+      "title": "Maven Full Lifecycle with Creation of Fat JAR",
+      "images": [
+        "Day-48__10-07-2026-maven-full-lifecycle-with-creation-of-fat-jar.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "20-07-2026-springmvc -first app.txt",
+      "dest": "Day-49__20-07-2026-springmvc-first-app.md",
+      "date": "20-07-2026",
+      "day": "Day-49",
+      "slug": "springmvc-first-app",
+      "title": "Spring MVC First App",
+      "images": [
+        "Day-49__20-07-2026-springmvc-first-app.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "22-07-2026-modelattribute to load- 2way binding-exception handling at controller and globally-notes.txt",
+      "dest": "Day-50__22-07-2026-modelattribute-to-load-2way-binding-exception-handling-at-controller-and-globally.md",
+      "date": "22-07-2026",
+      "day": "Day-50",
+      "slug": "modelattribute-to-load-2way-binding-exception-handling-at-controller-and-globally",
+      "title": "Modelattribute to Load 2way Binding Exception Handling At Controller and Globally",
+      "images": [
+        "Day-50__22-07-2026-modelattribute-to-load-2way-binding-exception-handling-at-controller-and-globally.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "27-07-2026-logging and profiles in springboot.txt",
+      "dest": "Day-51__27-07-2026-logging-and-profiles-in-springboot.md",
+      "date": "27-07-2026",
+      "day": "Day-51",
+      "slug": "logging-and-profiles-in-springboot",
+      "title": "Logging and Profiles in Spring Boot",
+      "images": [
+        "Day-51__27-07-2026-logging-basic-and-profiling-with-springboot.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "27-07-2026-logging basic and profiling with springboot.txt",
+      "dest": "Day-51__27-07-2026-logging-basic-and-profiling-with-springboot.md",
+      "date": "27-07-2026",
+      "day": "Day-51",
+      "slug": "logging-basic-and-profiling-with-springboot",
+      "title": "Logging Basic and Profiling with Spring Boot",
+      "images": [
+        "Day-51__27-07-2026-logging-basic-and-profiling-with-springboot.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "31-07-2026-springmvc-logging with pom.xml exclude feature-notes.txt",
+      "dest": "Day-52__31-07-2026-springmvc-logging-with-pom-xml-exclude-feature.md",
+      "date": "31-07-2026",
+      "day": "Day-52",
+      "slug": "springmvc-logging-with-pom-xml-exclude-feature",
+      "title": "Spring MVC Logging with POM XML Exclude Feature",
+      "images": [
+        "Day-52__31-07-2026-springmvc-logging-with-pom-xml-exclude-feature.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "06-08-2026-introduction to webservices - java - to - json.txt",
+      "dest": "Day-53__06-08-2026-introduction-to-webservices-java-to-json.md",
+      "date": "06-08-2026",
+      "day": "Day-53",
+      "slug": "introduction-to-webservices-java-to-json",
+      "title": "Introduction to Webservices Java to JSON",
+      "images": [
+        "Day-53__06-08-2026-introduction-to-webservices-java-to-json.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "10-08-2026- working with spring rest using spring boot introduction-notes.txt",
+      "dest": "Day-54__10-08-2026-working-with-spring-rest-using-spring-boot-introduction.md",
+      "date": "10-08-2026",
+      "day": "Day-54",
+      "slug": "working-with-spring-rest-using-spring-boot-introduction",
+      "title": "Working with Spring REST using Spring Boot Introduction",
+      "images": [
+        "Day-54__10-08-2026-working-with-spring-rest-using-spring-boot-introduction.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "11-08-2026-CRUD Operation using SpringRest.txt",
+      "dest": "Day-55__11-08-2026-crud-operation-using-springrest.md",
+      "date": "11-08-2026",
+      "day": "Day-55",
+      "slug": "crud-operation-using-springrest",
+      "title": "CRUD Operation using Springrest",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "17-08-2026-ResTemplate in synch mode.txt",
+      "dest": "Day-57__17-08-2026-resttemplate-in-sync-mode.md",
+      "date": "17-08-2026",
+      "day": "Day-57",
+      "slug": "resttemplate-in-sync-mode",
+      "title": "RestTemplate in Sync Mode",
+      "images": [
+        "Day-57__17-08-2026-resttemplate-in-sync-mode.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "18-08-2026-Webclient in synch mode using Mono-images-notes.txt",
+      "dest": "Day-58__18-08-2026-webclient-in-sync-mode-using-mono.md",
+      "date": "18-08-2026",
+      "day": "Day-58",
+      "slug": "webclient-in-sync-mode-using-mono",
+      "title": "WebClient in Sync Mode using Mono",
+      "images": [
+        "Day-58__18-08-2026-webclient-in-sync-mode-using-mono.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "20-08-2026-working with asycn for MakeMyTrip using onStatusCode-images.txt",
+      "dest": "Day-60__20-08-2026-working-with-async-for-makemytrip-using-onstatuscode.md",
+      "date": "20-08-2026",
+      "day": "Day-60",
+      "slug": "working-with-async-for-makemytrip-using-onstatuscode",
+      "title": "Working with Async for MakeMyTrip using Onstatuscode",
+      "images": [
+        "Day-60__20-08-2026-working-with-async-for-makemytrip-using-onstatuscode.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "24-08-2026-Mono object and its methods.txt",
+      "dest": "Day-61__24-08-2026-mono-object-and-its-methods.md",
+      "date": "24-08-2026",
+      "day": "Day-61",
+      "slug": "mono-object-and-its-methods",
+      "title": "Mono Object and Its Methods",
+      "images": [
+        "Day-61__24-08-2026-mono-object-and-its-method.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "07-09-2026-hateos using springboot.txt",
+      "dest": "Day-62__07-09-2026-hateoas-using-springboot.md",
+      "date": "07-09-2026",
+      "day": "Day-62",
+      "slug": "hateoas-using-springboot",
+      "title": "HATEOAS using Spring Boot",
+      "images": [
+        "Day-62__07-09-2026-hateoas-using-springboot.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "07-09-2026-spring-data-rest and usage of moudles in microservice environment.txt",
+      "dest": "Day-62__07-09-2026-spring-data-rest-and-usage-of-modules-in-microservice-environment.md",
+      "date": "07-09-2026",
+      "day": "Day-62",
+      "slug": "spring-data-rest-and-usage-of-modules-in-microservice-environment",
+      "title": "Spring Data REST and Usage of Modules in Microservice Environment",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "08-09-2026-spring-data-rest-customquery- actuators with endpoints and autloading of data to database.txt",
+      "dest": "Day-63__08-09-2026-spring-data-rest-customquery-actuators-with-endpoints-and-autoloading-of-data-to-database.md",
+      "date": "08-09-2026",
+      "day": "Day-63",
+      "slug": "spring-data-rest-customquery-actuators-with-endpoints-and-autoloading-of-data-to-database",
+      "title": "Spring Data REST Customquery Actuators with Endpoints and Autoloading of Data to Database",
+      "images": [
+        "Day-63__08-09-2026-spring-data-rest-customquery-actuators-with-endpoints-and-autoloading-of-data-to-database.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "10-09-2026-microservices-architecture- notes.txt",
+      "dest": "Day-64__10-09-2026-microservices-architecture.md",
+      "date": "10-09-2026",
+      "day": "Day-64",
+      "slug": "microservices-architecture",
+      "title": "Microservices Architecture",
+      "images": [
+        "Day-64__10-09-2026-microservices-architecture-01.png",
+        "Day-64__10-09-2026-microservices-architecture-02.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "11-09-2026-MicroservicesArchitecture-admin-server-eurekaserver-zipkin-server-rest-api (1).txt",
+      "dest": "Day-65__11-09-2026-microservicesarchitecture-admin-server-eurekaserver-zipkin-server-rest-api.md",
+      "date": "11-09-2026",
+      "day": "Day-65",
+      "slug": "microservicesarchitecture-admin-server-eurekaserver-zipkin-server-rest-api",
+      "title": "Microservicesarchitecture Admin Server Eurekaserver Zipkin Server REST API",
+      "images": [],
+      "kind": "txt"
+    },
+    {
+      "src": "16-09-2026-FeignClient examples (1).txt",
+      "dest": "Day-66__16-09-2026-feignclient-examples.md",
+      "date": "16-09-2026",
+      "day": "Day-66",
+      "slug": "feignclient-examples",
+      "title": "FeignClient Examples",
+      "images": [
+        "Day-66__16-09-2026-feignclient-examples.png"
+      ],
+      "kind": "txt"
+    },
+    {
+      "src": "18-09-2026-loadbalancer-api-gateway-trace-idspan-idusing zipkin (1).txt",
+      "dest": "Day-67__18-09-2026-loadbalancer-api-gateway-trace-id-span-idusing-zipkin.md",
+      "date": "18-09-2026",
+      "day": "Day-67",
+      "slug": "loadbalancer-api-gateway-trace-id-span-idusing-zipkin",
+      "title": "Loadbalancer API Gateway Trace ID Span Idusing Zipkin",
+      "images": [
+        "Day-67__18-09-2026-loadbalancer-api-gateway-trace-id-span-idusing-zipkin.png"
+      ],
+      "kind": "txt"
+    }
+  ],
+  "image_only_notes": [
+    {
+      "src": null,
+      "dest": "Day-01__24-02-2026-introduction-to-servlet.md",
+      "date": "24-02-2026",
+      "day": "Day-01",
+      "slug": "introduction-to-servlet",
+      "title": "Introduction to Servlet",
+      "images": [
+        "Day-01__24-02-2026-introduction-to-servlet.png"
+      ],
+      "kind": "image-only"
+    },
+    {
+      "src": null,
+      "dest": "Day-03__02-03-2026-html-servlet-db-integration.md",
+      "date": "02-03-2026",
+      "day": "Day-03",
+      "slug": "html-servlet-db-integration",
+      "title": "HTML Servlet DB Integration",
+      "images": [
+        "Day-03__02-03-2026-html-servlet-db-integration.png"
+      ],
+      "kind": "image-only"
+    },
+    {
+      "src": null,
+      "dest": "Day-04__03-03-2026-servlet-crud-operation.md",
+      "date": "03-03-2026",
+      "day": "Day-04",
+      "slug": "servlet-crud-operation",
+      "title": "Servlet CRUD Operation",
+      "images": [
+        "Day-04__03-03-2026-servlet-crud-operation.png"
+      ],
+      "kind": "image-only"
+    },
+    {
+      "src": null,
+      "dest": "Day-56__14-08-2026-irctc-service-swagger-introduction-to-resttemplate-project.md",
+      "date": "14-08-2026",
+      "day": "Day-56",
+      "slug": "irctc-service-swagger-introduction-to-resttemplate-project",
+      "title": "Irctc Service Swagger Introduction to RestTemplate Project",
+      "images": [
+        "Day-56__14-08-2026-irctc-service-swagger-introduction-to-resttemplate-project.png"
+      ],
+      "kind": "image-only"
+    },
+    {
+      "src": null,
+      "dest": "Day-59__19-08-2026-webclient-in-async-mode-using-mono-and-exceptionhandling-in-rest.md",
+      "date": "19-08-2026",
+      "day": "Day-59",
+      "slug": "webclient-in-async-mode-using-mono-and-exceptionhandling-in-rest",
+      "title": "WebClient in Async Mode using Mono and Exceptionhandling in REST",
+      "images": [
+        "Day-59__19-08-2026-webclient-in-async-mode-using-mono-and-exceptionhandling-in-rest.png"
+      ],
+      "kind": "image-only"
+    }
+  ],
+  "unmatched_images": [
+    "Day-12__11-05-2026-math-and-usage-of-strict-mode-in-javascript.png"
+  ],
+  "stats": {
+    "txt": 64,
+    "png": 56,
+    "images_processed": 56,
+    "images_cropped": 56,
+    "unique_dates": 67,
+    "day_01": "24-02-2026",
+    "final_day": "Day-67 / 18-09-2026"
+  }
+}

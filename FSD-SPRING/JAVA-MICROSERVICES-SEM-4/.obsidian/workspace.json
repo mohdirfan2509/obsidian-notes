@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "14b602b791d0bfeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "67e2e8f54b383cd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9959a5ddc1fd929d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/Day-66__16-09-2026-feignclient-examples.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-66__16-09-2026-feignclient-examples"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e68deb573dea1a59",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8970c72d5e9c0e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c8e55221872d17d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f0aa1a0251e0461e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6a5a7b53ec5d19a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.3717460632324
+  },
+  "right": {
+    "id": "aaa67efd14c40569",
+    "type": "split",
+    "children": [
+      {
+        "id": "130f01f50656c161",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37c0c252e03e9686",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NOTES/Day-66__16-09-2026-feignclient-examples.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "571f2a0930df9bc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NOTES/Day-66__16-09-2026-feignclient-examples.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "58bb8b17ba880ce6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4d29f7ec09be1dc8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c11ff25a5f842c8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NOTES/Day-66__16-09-2026-feignclient-examples.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9959a5ddc1fd929d",
+  "lastOpenFiles": [
+    "NOTES/Day-25__03-06-2026-cookie-in-persistent-and-nonpersistent-introduction-to-urlrewriting.md",
+    "NOTES/Day-24__02-06-2026-session-cookie-and-its-limitation.md",
+    "NOTES/Day-23__01-06-2026-session-management-using-session-api.md",
+    "NOTES/Day-22__27-05-2026-wrapper-request-responsewrapper.md",
+    "NOTES/Day-21__26-05-2026-filterchaining-in-servlet.md",
+    "NOTES/Day-16__15-05-2026-redirection-using-response-object-servlet-communication-dispatching-the-servlet.md",
+    "NOTES/Day-14__13-05-2026-servletcontext-servletconfig-attribute-parameter-event-listener-serverconnection-pool-in-tomcat.md",
+    "NOTES/Day-08__05-05-2026-sr-hsr-sresp-hsresp-images-httpservletclass.md",
+    "NOTES/Day-07__29-04-2026-working-with-genericservlet-and-httpservlet.md",
+    "NOTES/Day-06__28-04-2026-working-with-genericservlet.md",
+    "NOTES/Day-05__27-04-2026-servlet-introduction.md",
+    "NOTES/Day-04__03-03-2026-servlet-crud-operation.md",
+    "NOTES/Day-03__02-03-2026-html-servlet-db-integration.md",
+    "NOTES/Day-02__25-02-2026-servletlifecycleprogram.md",
+    "NOTES/Day-01__24-02-2026-introduction-to-servlet.md",
+    "NOTES/Day-11__08-05-2026-servletrequest-methods.md",
+    "NOTES/Day-10__07-05-2026-servletmodel-processthread-servlet-thread-httpservletrequest-methods.md",
+    "NOTES/Day-09__06-05-2026-hot-deployment-and-servlet-model.md"
+  ]
+}

@@ -1,0 +1,199 @@
+[
+  {
+    "src": null,
+    "dest": "Day-01__24-02-2026-introduction-to-servlet.md",
+    "date": "24-02-2026",
+    "day": "Day-01",
+    "slug": "introduction-to-servlet",
+    "title": "Introduction to Servlet",
+    "images": [
+      "Day-01__24-02-2026-introduction-to-servlet.png"
+    ],
+    "kind": "image-only"
+  },
+  {
+    "src": "25-02-2026-ServletLifeCycleprogram.txt",
+    "dest": "Day-02__25-02-2026-servletlifecycleprogram.md",
+    "date": "25-02-2026",
+    "day": "Day-02",
+    "slug": "servletlifecycleprogram",
+    "title": "Servletlifecycleprogram",
+    "images": [
+      "Day-02__25-02-2026-servletlifecycleprogram.png"
+    ],
+    "kind": "txt"
+  },
+  {
+    "src": null,
+    "dest": "Day-03__02-03-2026-html-servlet-db-integration.md",
+    "date": "02-03-2026",
+    "day": "Day-03",
+    "slug": "html-servlet-db-integration",
+    "title": "HTML Servlet DB Integration",
+    "images": [
+      "Day-03__02-03-2026-html-servlet-db-integration.png"
+    ],
+    "kind": "image-only"
+  },
+  {
+    "src": null,
+    "dest": "Day-04__03-03-2026-servlet-crud-operation.md",
+    "date": "03-03-2026",
+    "day": "Day-04",
+    "slug": "servlet-crud-operation",
+    "title": "Servlet CRUD Operation",
+    "images": [
+      "Day-04__03-03-2026-servlet-crud-operation.png"
+    ],
+    "kind": "image-only"
+  },
+  {
+    "src": "27-04-2026-servlet_introduction_notes.txt",
+    "dest": "Day-05__27-04-2026-servlet-introduction.md",
+    "date": "27-04-2026",
+    "day": "Day-05",
+    "slug": "servlet-introduction",
+    "title": "Servlet Introduction",
+    "images": [
+      "Day-05__27-04-2026-servlet-introduction.png"
+    ],
+    "kind": "txt"
+  },
+  {
+    "src": "28-04-2026-working with GenericServlet.txt",
+    "dest": "Day-06__28-04-2026-working-with-genericservlet.md",
+    "date": "28-04-2026",
+    "day": "Day-06",
+    "slug": "working-with-genericservlet",
+    "title": "Working with GenericServlet",
+    "images": [],
+    "kind": "txt"
+  },
+  {
+    "src": "29-04-2026-working with GenericServlet and HttpServlet.txt",
+    "dest": "Day-07__29-04-2026-working-with-genericservlet-and-httpservlet.md",
+    "date": "29-04-2026",
+    "day": "Day-07",
+    "slug": "working-with-genericservlet-and-httpservlet",
+    "title": "Working with GenericServlet and HttpServlet",
+    "images": [],
+    "kind": "txt"
+  },
+  {
+    "src": "05-05-2026-SR-HSR-SResp-HSResp-images-HttpServletClass-notes.txt",
+    "dest": "Day-08__05-05-2026-sr-hsr-sresp-hsresp-images-httpservletclass.md",
+    "date": "05-05-2026",
+    "day": "Day-08",
+    "slug": "sr-hsr-sresp-hsresp-images-httpservletclass",
+    "title": "Sr Hsr Sresp Hsresp Images Httpservletclass",
+    "images": [
+      "Day-08__05-05-2026-sr-hsr-sresp-hsresp-images-httpservletclass-flow.png"
+    ],
+    "kind": "txt"
+  },
+  {
+    "src": "06-05-2026-HOT deployment and servlet model-notes.txt",
+    "dest": "Day-09__06-05-2026-hot-deployment-and-servlet-model.md",
+    "date": "06-05-2026",
+    "day": "Day-09",
+    "slug": "hot-deployment-and-servlet-model",
+    "title": "Hot Deployment and Servlet Model",
+    "images": [
+      "Day-09__06-05-2026-hot-deployment-and-servlet-model.png"
+    ],
+    "kind": "txt"
+  },
+  {
+    "src": "07-05-2026-ServletModel-procesthread-servlet-thread- HttpServletRequest methods.txt",
+    "dest": "Day-10__07-05-2026-servletmodel-processthread-servlet-thread-httpservletrequest-methods.md",
+    "date": "07-05-2026",
+    "day": "Day-10",
+    "slug": "servletmodel-processthread-servlet-thread-httpservletrequest-methods",
+    "title": "Servletmodel Processthread Servlet Thread HttpServletRequest Methods",
+    "images": [
+      "Day-10__07-05-2026-servletmodel-processthread-servlet-thread-httpservletrequest-method.png"
+    ],
+    "kind": "txt"
+  },
+  {
+    "src": "08-05-2026- ServletRequest methods.txt",
+    "dest": "Day-11__08-05-2026-servletrequest-methods.md",
+    "date": "08-05-2026",
+    "day": "Day-11",
+    "slug": "servletrequest-methods",
+    "title": "ServletRequest Methods",
+    "images": [
+      "Day-11__08-05-2026-servletrequest-methods.png"
+    ],
+    "kind": "txt"
+  },
+  {
+    "src": "11-05-2026-request object and connecting servlet to database-notes.txt",
+    "dest": "Day-12__11-05-2026-request-object-and-connecting-servlet-to-database.md",
+    "date": "11-05-2026",
+    "day": "Day-12",
+    "slug": "request-object-and-connecting-servlet-to-database",
+    "title": "Request Object and Connecting Servlet to Database",
+    "images": [
+      "Day-12__11-05-2026-request-object-and-connecting-servlet-to-database.png"
+    ],
+    "kind": "txt"
+  },
+  {
+    "src": "12-05-2026-ServletContext and ServletConfig object.txt",
+    "dest": "Day-13__12-05-2026-servletcontext-and-servletconfig-object.md",
+    "date": "12-05-2026",
+    "day": "Day-13",
+    "slug": "servletcontext-and-servletconfig-object",
+    "title": "ServletContext and ServletConfig Object",
+    "images": [
+      "Day-13__12-05-2026-servletcontext-and-servletconfig-object.png"
+    ],
+    "kind": "txt"
+  },
+  {
+    "src": "13-05-2026-Servletcontext-SErvletConfig - attribute-parameter-Event-listener-ServerConnection pool in tomcat.txt",
+    "dest": "Day-14__13-05-2026-servletcontext-servletconfig-attribute-parameter-event-listener-serverconnection-pool-in-tomcat.md",
+    "date": "13-05-2026",
+    "day": "Day-14",
+    "slug": "servletcontext-servletconfig-attribute-parameter-event-listener-serverconnection-pool-in-tomcat",
+    "title": "ServletContext ServletConfig Attribute Parameter Event Listener Serverconnection Pool in Tomcat",
+    "images": [],
+    "kind": "txt"
+  },
+  {
+    "src": "14-05-2026-Connection pooling in tomcat and ServletResponse sending video file type.txt",
+    "dest": "Day-15__14-05-2026-connection-pooling-in-tomcat-and-servletresponse-sending-video-file-type.md",
+    "date": "14-05-2026",
+    "day": "Day-15",
+    "slug": "connection-pooling-in-tomcat-and-servletresponse-sending-video-file-type",
+    "title": "Connection Pooling in Tomcat and ServletResponse Sending Video File Type",
+    "images": [
+      "Day-15__14-05-2026-connection-pooling-in-tomcat-and-servletresponse-sending-video-file-type.png"
+    ],
+    "kind": "txt"
+  },
+  {
+    "src": "15-05-2026- Redirection using response object- Servlet Communication - dispatching the servlet-notes.txt",
+    "dest": "Day-16__15-05-2026-redirection-using-response-object-servlet-communication-dispatching-the-servlet.md",
+    "date": "15-05-2026",
+    "day": "Day-16",
+    "slug": "redirection-using-response-object-servlet-communication-dispatching-the-servlet",
+    "title": "Redirection using Response Object Servlet Communication Dispatching the Servlet",
+    "images": [
+      "Day-16__15-05-2026-redirection-using-response-object-servlet-communication-dispatching-the-servlet-01.png",
+      "Day-16__15-05-2026-redirection-using-response-object-servlet-communication-dispatching-the-servlet-02.png"
+    ],
+    "kind": "txt"
+  },
+  {
+    "src": "19-05-2026-include-forward-using Request and Context object-diff bw-redirect and forward.txt",
+    "dest": "Day-17__19-05-2026-include-forward-using-request-and-context-object-diff-bw-redirect-and-forward.md",
+    "date": "19-05-2026",
+    "day": "Day-17",
+    "slug": "include-forward-using-request-and-context-object-diff-bw-redirect-and-forward",
+    "title": "Include Forward using Request and Context Object Diff bw Redirect and Forward",
+    "images": [],
+    "kind": "txt"
+  }
+]
