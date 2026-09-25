@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "076fd4d75c502e47",
+        "id": "8e855d9a9c60ab72",
         "type": "tabs",
         "children": [
           {
-            "id": "90678a7dcb2dc5d4",
+            "id": "ff6b028f071f7e82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/OOP-IN-JAVA/NOTES.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "NOTES"
             }
           }
         ]
@@ -76,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 249.21428298950195
   },
   "right": {
     "id": "fee2bde8125614ec",
@@ -180,8 +184,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a83a4e462c14c21b",
+  "active": "ff6b028f071f7e82",
   "lastOpenFiles": [
+    "JAVA/MULTITHREADING-IN-JAVA/NOTES.md",
+    "JAVA/EXCEPTION-HANDLING/NOTES.md",
+    "JAVA/CORE-JAVA/NOTES.md",
+    "JAVA/COLLECTIONS-IN-JAVA/NOTES.md",
+    "JAVA/CORE-JAVA/raw-pdfs/Core Java till Strings (Latest).pdf",
     "FSD-SPRING/Java-Backend-Sem-4",
     "Untitled",
     "Clippings/Where teams and agents work together.md",
@@ -213,14 +222,9 @@
     "Pasted image 20260106220535.png",
     "OPERATING SYSTEM AND COMPUTER NETWORKS/os-notes/Class-16.md",
     "OPERATING SYSTEM AND COMPUTER NETWORKS/os-notes/Class-15.md",
-    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-notes/Class-14.md",
-    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-notes/Class-12.md",
-    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-notes/Class-10.md",
     "OPERATING SYSTEM AND COMPUTER NETWORKS/os-slides/Class-12-slides.pdf",
     "OPERATING SYSTEM AND COMPUTER NETWORKS/os-slides/CLass-11-slides.pdf",
     "OPERATING SYSTEM AND COMPUTER NETWORKS/os-slides/Class-16-slides.pdf",
-    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-slides/Class-17-18-slides.pdf",
-    "OPERATING SYSTEM AND COMPUTER NETWORKS/os-slides/Class-14-slides.pdf",
     "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-01-img-06.jpg",
     "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-01-img-01.jpg",
     "OPERATING SYSTEM AND COMPUTER NETWORKS/os-images/class-01-img-05.jpg",
